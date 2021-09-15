@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 import NavLinks from "./nav-links";
 
 import flag1 from "../../assets/images/resources/flag-1-1.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoDark from "../../assets/images/logo.webp";
 
 const HeaderTwo = () => {
   useEffect(() => {
@@ -73,7 +73,7 @@ const HeaderTwo = () => {
           <div className="logo-box">
             <Link href="/">
               <a aria-label="logo image">
-                <img src={logoDark} width="101" alt="" />
+                <img src={logoDark} alt="" />
               </a>
             </Link>
             <span className="fa fa-bars mobile-nav__toggler"></span>

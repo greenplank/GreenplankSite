@@ -4722,6 +4722,9 @@ h6 {
 .footer-bottom {
   background-color: var(--thm-black2);
 }
+.logo-box img {
+  width: 201px;
+}
 
 .footer-bottom .container {
   display: -webkit-box;
