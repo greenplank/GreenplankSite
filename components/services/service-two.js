@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Grid from '@material-ui/core/Grid';
 import { Container } from "react-bootstrap";
 import { Swiper, SwiperSlide } from "swiper/react";
 import image1 from "../../assets/images/resources/Det_basta_for-_pooler.webp";
@@ -62,28 +63,28 @@ const ServiceTwo = () => {
   };
   return (
     <section className="service-two">
-      <Container>
-        <Swiper {...sliderOptions}>
-          {SERVICE_TWO_DATA.map(
-            ({ extraClassName, image, title, link }, index) => (
-              <SwiperSlide key={`service-two-key-${index}`}>
-                <div
-                  className={`service-two__box ${extraClassName}` }
-                  style={{ backgroundImage: `url(${image})`,backgroundColor:"#b5c7bb" }}
-                >
-                  <div className="service-two__box-inner">
-                    <h3>
-                      <Link href={link}>
-                        <a>{title}</a>
-                      </Link>
-                    </h3>
-                  </div>
-                </div>
-              </SwiperSlide>
-            )
-          )}
-        </Swiper>
-      </Container>
+          <Container>
+            <Swiper {...sliderOptions}>
+              {SERVICE_TWO_DATA.map(
+                ({ extraClassName, image, title, link }, index) => (
+                  <SwiperSlide key={`service-two-key-${index}`}>
+                    <div
+                      className={`service-two__box ${extraClassName}`}
+                      style={{ backgroundImage: `url(${image})`, backgroundColor: "#b5c7bb" }}
+                    >
+                      <div className="service-two__box-inner">
+                        <h3>
+                          <Link href={link}>
+                            <a>{title}</a>
+                          </Link>
+                        </h3>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                )
+              )}
+            </Swiper>
+          </Container>
     </section>
   );
 };
