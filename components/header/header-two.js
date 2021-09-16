@@ -112,7 +112,7 @@ const HeaderTwo = () => {
         <Container>
           <NavLinks />
           <Link href="/bestall-prov">
-            <a className="thm-btn">Beställ prov</a>
+            <a className="thm-btn rounded-pill">Beställ prov</a>
           </Link>
         </Container>
       </nav>
