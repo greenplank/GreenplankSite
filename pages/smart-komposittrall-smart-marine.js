@@ -130,10 +130,10 @@ const smartmarine = () => {
                                   <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
                                   </Grid>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Marine-swedish.pdf" className="thm-btn"  >installationsguide</a>
+                                    <a target="_blank" href="/pdfs/SmartMarine/smartMarineswedish.pdf" className="thm-btn"  >installationsguide</a>
                                   </Grid>
                                   <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Marine-swedish%20(1).pdf" className="thm-btn" >installation av aluminium</a>
+                                    <a target="_blank" href="/pdfs/SmartMarine/smart-Marine-swedish.pdf" className="thm-btn" >installation av aluminium</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -250,27 +250,27 @@ const smartmarine = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Marine-swedish.pdf">
+                            <a target="_blank" href="/pdfs/SmartMarine/smartMarineswedish.pdf">
                               <img src={pdfimg2} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Smart-Installation-SV-1.pdf">
+                            <a target="_blank" href="/pdfs/Smart-Installation-SV-1.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Marine-swedish%20(1).pdf">
+                            <a target="_blank" href="/pdfs/SmartMarine/smart-Marine-swedish.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf">
+                            <a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>

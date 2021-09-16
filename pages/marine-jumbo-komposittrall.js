@@ -130,7 +130,7 @@ const marinejumbokomposittrall = () => {
                                                             <a target="_blank" href={`${process.env.PUBLIC_URL}/assets/pdfs/smart-classic-deck-swedish.pdf`} className="thm-btn"  >installationsguide</a>
                                                         </Grid> */}
                                   <Grid item xs={8} sm={6} lg={6}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-jumbo-swedish-with-aluminum.pdf" className="thm-btn" >installation av aluminium</a>
+                                    <a target="_blank" href="/pdfs/MarineJumbo/marine-jumbo-swedish-with-aluminum.pdf" className="thm-btn" >installation av aluminium</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -240,22 +240,22 @@ const marinejumbokomposittrall = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf">
+                            <a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-jumbo-swedish-with-aluminum.pdf">
+                            <a target="_blank" href="/pdfs/MarineJumbo/marine-jumbo-swedish-with-aluminum.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/datablad-greenplank-komposittrall-marine-jumbo.pdf">
+                            <a target="_blank" href="/pdfs/MarineJumbo/datablad-greenplank-komposittrall-marine-jumbo.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>

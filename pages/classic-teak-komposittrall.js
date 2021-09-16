@@ -132,10 +132,10 @@ const classicTeak = () => {
                                                                             <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
                                                                         </Grid>
                                                                         <Grid item xs={6} sm={3} lg={5}>
-                                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-swedish.pdf" className="thm-btn"  >installationsguide</a>
+                                                                            <a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-swedish.pdf" className="thm-btn"  >installationsguide</a>
                                                                         </Grid>
                                                                         <Grid item xs={8} sm={6} lg={6}>
-                                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-SWEDISH-aluminim-trim.pdf" className="thm-btn" >installation av aluminium</a>
+                                                                            <a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-SWEDISH-aluminim-trim.pdf" className="thm-btn" >installation av aluminium</a>
                                                                         </Grid>
                                                                     </Grid>
                                                                 </div>
@@ -280,22 +280,22 @@ const classicTeak = () => {
 
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf" target="_blank">
+                                                            <a href="/pdfs/Broschyr-SV.pdf" target="_blank">
                                                                 <img src={pdfimg1} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-swedish.pdf">
+                                                            <a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-swedish.pdf">
                                                                 <img src={pdfimg2} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf">
+                                                            <a target="_blank" href="/pdfs/ClassicKomposittrall/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf">
                                                                 <img src={pdfimg3} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-SWEDISH-aluminim-trim.pdf">
+                                                            <a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-SWEDISH-aluminim-trim.pdf">
                                                                 <img src={pdfimg4} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
