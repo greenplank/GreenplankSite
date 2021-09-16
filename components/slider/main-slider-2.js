@@ -36,18 +36,20 @@ const MainSliderTwo = () => {
     }
   };
 
-  const isDesktopOrLaptop = useMediaQuery({
-    query: '(min-width: 1224px)'
-  })
+ 
   const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })
+  const isDesktopOrLaptop = useMediaQuery({query: '(min-width: 1224px)'})
+  const isDesktopOrLaptopmin = useMediaQuery({query: '(min-width: 1008px)'})
   const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-  const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
-  const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
+  // const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
+  // const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
 
   return (
     <div className="row">
       <div className="col-lg-5 p-0" >
-        <section style={{ padding:isBigScreen? "7em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isTabletOrMobile?".1em 2em .1em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black" }}>
+        <section style={{ padding:isBigScreen? "7em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isTabletOrMobile?".1em 2em .1em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black" ,
+        // fontSize:isBigScreen? "16px":isDesktopOrLaptop?"14px":isDesktopOrLaptopmin?"8px":isTabletOrMobile?"6px":isTabletOrMobile?"8px":"10px", background: "black" 
+      }}>
           <div>
             <div className="block-title text-left">
               <h3>
