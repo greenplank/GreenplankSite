@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import pageHeaderBg from "../assets/images/backgrounds/gallery.webp";
+import pageHeaderBg from "../assets/images/backgrounds/banner2.webp";
 
 const PageHeader = ({ title, crumbTitle }) => {
   return (
