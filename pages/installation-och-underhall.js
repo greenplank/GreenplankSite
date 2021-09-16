@@ -53,73 +53,73 @@ const InstallationUnderhall = () => {
                       <tbody>
                         <tr>
                           <td style={{ textAlign: "left" }}>Smart™ Marine</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Marine-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image1} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartMarine/smart-Marine-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image1} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td style={{ textAlign: "left" }}>Smart™ Classic</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-classic-deck-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image3} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/smart-classic-deck-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image3} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Smart™ Regular</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-regular-Swedish.pdf"><img class="wp-image-10058 aligncenter" src={image4} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartRegular/smart-regular-Swedish.pdf"><img class="wp-image-10058 aligncenter" src={image4} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Smart™ Capped</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-Capped-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image5} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image5} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>DECK CARE AND CLEANING</td>
                           <td><img class="wp-image-10063 aligncenter" src={image6} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/GreenPlank-deck-care-and-cleaning-guide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/GreenPlank-deck-care-and-cleaning-guide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Marine 40™</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-40-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Marine40™/marine-40-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Marine 60™</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-60-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Marine60™/marine-60-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Classic™ Komposittrall</td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image8} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image8} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>ENTRA™ Composite Decking</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Entra-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Entra-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>PRIMACAP™ Facade Cladding</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Primacap-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Novoclad/Green-Plank-Primacap-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Private™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Private-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofencePrivate™/Green-Plank-Private-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Traditional™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Traditional-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofenceTraditional™/Green-Plank-Traditional-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Modern™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Modern-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofenceModern™/Green-Plank-Modern-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>InstaClick™/EverTile™ Deck Tiles</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-kompositplattor-Monteringsguide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/golvplattor/Green-Plank-kompositplattor-Monteringsguide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                       </tbody>
                     </table>

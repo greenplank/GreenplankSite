@@ -48,7 +48,7 @@ const Resurser = () => {
                 <hr style={{ backgroundColor: "#369956", width: "100", borderWidth: "0.2em", marginBottom: "70px" }} />
                 <Grid container spacing={3} >
                   <Grid item xs={12} sm={4} >
-                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Teknisk-Brochyr-ver-1.3.pdf">
+                    <a target="_blank" href="/pdfs/Teknish-Brochyr/Teknisk-Brochyr-ver-1.3.pdf">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image1} className="img-fluid" alt="" /></center>
                         <h3 className="mb-30 mt-30 text-center">Tecknisk Brochyr</h3>
@@ -56,7 +56,7 @@ const Resurser = () => {
                     </a>
                   </Grid>
                   <Grid item xs={12} sm={4} >
-                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/SP-Rapport-2016_83.pdf">
+                    <a target="_blank" href="/pdfs/SP-Rapport-2016_83.pdf">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image2} className="img-fluid" alt="" /></center>
                         <h3 className="mb-30 mt-30 text-center">SP report</h3>
@@ -64,7 +64,7 @@ const Resurser = () => {
                     </a>
                   </Grid>
                   <Grid item xs={12} sm={4} >
-                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/greenplank-fire-retardant-compoisite-decking-test-19-0807-02-REPORT-signed-1.pdf">
+                    <a target="_blank" href="/pdfs/greenplank-fire-retardant-compoisite-decking-test-19-0807-02-REPORT-signed-1.pdf">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image3} className="img-fluid" alt="" /></center>
                         <h3 className="mb-30 mt-30 text-center">Fire Test</h3>
@@ -104,7 +104,7 @@ const Resurser = () => {
                 <hr style={{ backgroundColor: "#369956", width: "100", borderWidth: "0.2em", marginBottom: "70px" }} />
                 <Grid container spacing={3} >
                   <Grid item xs={12} sm={4} >
-                    <a target="_blank" href="https://fenceplanner.greenplank.eu/">
+                    <a target="_blank" href="http://fenceplanner.greenplank.eu/">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image7} className="img-fluid" alt="" /></center>
                         <h3 className="mb-30 mt-30 text-center">Staket Planner</h3>
@@ -112,7 +112,7 @@ const Resurser = () => {
                     </a>
                   </Grid>
                   <Grid item xs={12} sm={4} >
-                    <a target="_blank" href="https://deckplanner.greenplank.eu/">
+                    <a target="_blank" href="http://deckplanner.greenplank.eu/">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image8} className="img-fluid" alt="" /></center>
                         <h3 className="mb-30 mt-30 text-center">Trall Planner</h3>

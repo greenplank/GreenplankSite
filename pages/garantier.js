@@ -35,7 +35,7 @@ const Garantier = () => {
                   <div className="row mt-30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="https://storage.googleapis.com/greenplankdata1/GREEN-PLANK-WARRANTY-swedish-.pdf" target="_blank" className="thm-btn" >Ladda Ner Garanti för privatperson</a>
+                        <a href="/pdfs/grantier/GREEN-PLANK-WARRANTY-swedish-.pdf" target="_blank" className="thm-btn" >Ladda Ner Garanti för privatperson</a>
                       </Grid>
                     </Grid>
                   </div>
@@ -45,7 +45,7 @@ const Garantier = () => {
                   <div className="row mt-30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="https://storage.googleapis.com/greenplankdata1/STAIN-AND-FADE-PERFORMANCE-LIMITED-WARRANTY-translated-and-corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner FÄRG- OCH FADE</a>
+                        <a href="/pdfs/grantier/STAIN-AND-FADE-PERFORMANCE-LIMITED-WARRANTY-translated-and-corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner FÄRG- OCH FADE</a>
                       </Grid>
                     </Grid>
                   </div>
@@ -55,7 +55,7 @@ const Garantier = () => {
                   <div className="row section-space--top--30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="https://storage.googleapis.com/greenplankdata1/Green-Plank%C2%AE-kommersiell-begransad-garanti-Translated-and-Corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner kommersiell begränsad garanti</a>
+                        <a href="/pdfs/grantier/Green-Plank-kommersiell-begransad-garanti-Translated-and-Corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner kommersiell begränsad garanti</a>
                       </Grid>
                     </Grid>
                   </div>
@@ -65,7 +65,7 @@ const Garantier = () => {
                   <p className="mb-30 mt-30">Kom ihåg, Vänligen behålla en kopia av ditt inköpsbevis vilket krävs för att lämna in en fordran.</p>
                   <h3 className="mb-30 mt-30">GARANTI REGISTRERING
                   </h3>
-                  <p className="mb-30 mt-30">För att validera din garanti måste du fylla i och posta (<a href="https://storage.googleapis.com/greenplankdata1/GREEN-PLANK-WARRANTY-REGISTRATION-CARD.pdf" target="_blank">DOWNLOAD registreringskortet</a>) inom 90 dagar efter installationen. En kopia av kvittot från en auktoriserad Green Plank AB, Green Plank® Trall -återförsäljare eller entreprenör samt ett foto av projektet krävs.</p>
+                  <p className="mb-30 mt-30">För att validera din garanti måste du fylla i och posta (<a href="/pdfs/grantier/GREEN-PLANK-WARRANTY-REGISTRATION-CARD.pdf" target="_blank">DOWNLOAD registreringskortet</a>) inom 90 dagar efter installationen. En kopia av kvittot från en auktoriserad Green Plank AB, Green Plank® Trall -återförsäljare eller entreprenör samt ett foto av projektet krävs.</p>
                 </div>
               </Col>
             </Row>

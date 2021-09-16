@@ -83,7 +83,7 @@ const Footer = () => {
                 <h3 className="footer-widget__title">Resurser</h3>
                 <ul className="list-unstyled" >
                   <li>
-                    <Link  href="https://storage.googleapis.com/greenplankdata1/Teknisk-Brochyr-ver-1.3.pdf"  >
+                    <Link  href="/pdfs/Teknish-Brochyr/Teknisk-Brochyr-ver-1.3.pdf"  >
                       <a target="_blank" style={{color:"white"}}>Teknisk Brochyr</a>
                     </Link>
                   </li>

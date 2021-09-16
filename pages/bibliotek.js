@@ -40,7 +40,7 @@ const Bibliotek = () => {
                 <hr style={{ backgroundColor: "#369956", width: "100", borderWidth: "0.2em", marginBottom: "70px" }} />
                 <Grid container spacing={3}>
                   <Grid item xs={12} sm={12} md={4} style={{ marginRight: "4em" }} >
-                    <a href="https://storage.googleapis.com/greenplankdata1/massing_m_logrim_wikander_f_190409.pdf" target="_blank">
+                    <a href="/pdfs/massing_m_logrim_wikander_f_190409.pdf" target="_blank">
                       <Box borderRadius="2em" {...defaultProps} >
                         <center><img style={{ padding: "1em" }} src={image1} className="img-fluid" alt="" /></center>
                       </Box>
