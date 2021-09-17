@@ -50,7 +50,7 @@ const HeaderTwo = () => {
     <div className="main-header__two">
       <div className="main-header__top">
         <Container>
-          <p>Award Winning Company</p>
+          <p style={{color:"white"}}>Award Winning Company</p>
           <div className="main-header__social">
             <a href="https://www.facebook.com/GreenplankSweden" aria-label="facebook">
               <i className="fab fa-facebook-square"></i>
