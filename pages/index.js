@@ -65,13 +65,3 @@ const HomeTwo = () => {
 export default HomeTwo;
 
 
-// export async function  getServerSideProps(){
-
-//   console.log(process.env.authAPIkey);
-
-//   return{
-//     props:{
-//       hello:'world'
-//     }
-//   }
-// }
