@@ -78,6 +78,7 @@ import galleryImage62 from "../../assets/images/gallery/ClassicKompositrall/4.we
 import galleryImage63 from "../../assets/images/gallery/ClassicKompositrall/5.webp";
 import galleryImage64 from "../../assets/images/gallery/ClassicKompositrall/6.png";
 
+
 const GalleryPage = () => {
   return (
     <section className="gallery-page pt-120 pb-120">

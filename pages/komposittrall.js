@@ -10,32 +10,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import Image1 from "../assets/images/backgrounds/komposittrall1.webp"
 import Image2 from "../assets/images/backgrounds/komposittrall.webp"
 import Head from "next/head";
-import { UncontrolledCarousel } from "reactstrap";
-import Hidden from '@material-ui/core/Hidden';
 
-const items = [
-    {
-        src: require("../assets/images/backgrounds/ezgif.com-gif-maker.webp"),
-        altText: "Slide 1",
-        caption: "",
-        header: "",
-        key: "1",
-    },
-    {
-        src: require("../assets/images/backgrounds/5-1-1024x273.webp"),
-        altText: "Slide 2",
-        caption: "",
-        header: "",
-        key: "2",
-    }
-    // {
-    //     src: require("../assets/images/backgrounds/5-1-1024x273.webp"),
-    //     altText: "Slide 3",
-    //     caption: "",
-    //     header: "",
-    //     key: "3",
-    // },
-];
+
 
 const Komposittrall = () => {
 
@@ -50,14 +26,6 @@ const Komposittrall = () => {
                 <HeaderTwo />
                 <PageHeader title="Komposittrall" crumbTitle="komposittrall" />
                 <StickyHeader />
-
-                <Hidden smDown>
-                <Row className="about-one pt-120 pb-20">
-                    <Col md="10" className="mx-auto">
-                        <UncontrolledCarousel items={items} />
-                    </Col>
-                </Row>
-                </Hidden>
 
 
 
