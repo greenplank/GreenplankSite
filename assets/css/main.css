@@ -3698,7 +3698,7 @@ h6 {
 .page-header {
   /* background-color: var(--thm-black); */
   position: relative;
-  height:350px;
+  height:450px;
 }
 
 .page-header__bg {
@@ -3712,7 +3712,6 @@ h6 {
   opacity: 1;
   background-repeat: no-repeat;
   background-size: cover;
-  /* background-attachment: fixed; */
 }
 
 .page-header .container {
@@ -3729,6 +3728,7 @@ h6 {
   justify-content: space-between;
   padding-top: 120px;
   padding-bottom: 120px;
+  margin: auto;
 }
 
 @media (min-width: 1200px) {

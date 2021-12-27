@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeaderFasadpanel from "../components/page-header-Fasadpanel";
 import FasadpanelSection from "../components/Produkter/fasadpanelSection";
 import BrandCarousel from "../components/brand-carousel";
 import Footer from "../components/footer";
@@ -21,7 +21,7 @@ const fasadpanel = () => {
             </Head>
             <Layout pageTitle="Fasadpanel">
                 <HeaderTwo />
-                <PageHeader title="Fasadpanel" crumbTitle="fasadpanel" />
+                <PageHeaderFasadpanel title="Fasadpanel" crumbTitle="fasadpanel" />
                 <StickyHeader />
                 <FasadpanelSection />
                 <section className="about-one pt-20 pb-40">
