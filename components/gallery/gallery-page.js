@@ -32,6 +32,8 @@ import galleryImage24 from "../../assets/images/gallery/Novofence/12.webp";
 import galleryImage25 from "../../assets/images/gallery/Novoclad/1.webp";
 import galleryImage26 from "../../assets/images/gallery/Novoclad/2.webp";
 import galleryImage27 from "../../assets/images/gallery/Novoclad/3.webp";
+import galleryImage27_1 from "../../assets/images/gallery/Novoclad/4.webp";
+import galleryImage27_2 from "../../assets/images/gallery/Novoclad/5.webp";
 
 import galleryImage28 from "../../assets/images/gallery/Naturplank/1.webp";
 import galleryImage29 from "../../assets/images/gallery/Naturplank/2.webp";
@@ -59,6 +61,9 @@ import galleryImage46 from "../../assets/images/gallery/EverDeck/4.webp";
 import galleryImage47 from "../../assets/images/gallery/EverDeck/5.webp";
 import galleryImage48 from "../../assets/images/gallery/EverDeck/6.webp";
 import galleryImage49 from "../../assets/images/gallery/EverDeck/7.webp";
+import galleryImage49_1 from "../../assets/images/gallery/EverDeck/8.webp";
+import galleryImage49_2 from "../../assets/images/gallery/EverDeck/9.webp";
+import galleryImage49_3 from "../../assets/images/gallery/EverDeck/10.webp";
 
 import galleryImage50 from "../../assets/images/gallery/kompositeBalcony/1.webp";
 import galleryImage51 from "../../assets/images/gallery/kompositeBalcony/2.webp";
@@ -77,6 +82,17 @@ import galleryImage61 from "../../assets/images/gallery/ClassicKompositrall/3.we
 import galleryImage62 from "../../assets/images/gallery/ClassicKompositrall/4.webp";
 import galleryImage63 from "../../assets/images/gallery/ClassicKompositrall/5.webp";
 import galleryImage64 from "../../assets/images/gallery/ClassicKompositrall/6.png";
+import galleryImage65 from "../../assets/images/gallery/ClassicKompositrall/7.webp";
+import galleryImage66 from "../../assets/images/gallery/ClassicKompositrall/8.webp";
+import galleryImage67 from "../../assets/images/gallery/ClassicKompositrall/9.webp";
+import galleryImage68 from "../../assets/images/gallery/ClassicKompositrall/10.webp";
+import galleryImage69 from "../../assets/images/gallery/ClassicKompositrall/11.webp";
+import galleryImage70 from "../../assets/images/gallery/ClassicKompositrall/12.webp";
+import galleryImage71 from "../../assets/images/gallery/ClassicKompositrall/13.webp";
+import galleryImage72 from "../../assets/images/gallery/ClassicKompositrall/14.webp";
+import galleryImage73 from "../../assets/images/gallery/ClassicKompositrall/15.webp";
+import galleryImage74 from "../../assets/images/gallery/ClassicKompositrall/16.webp";
+
 
 
 const GalleryPage = () => {
@@ -142,6 +158,8 @@ const GalleryPage = () => {
           <GalleryCard image={galleryImage25} />
           <GalleryCard image={galleryImage26} />
           <GalleryCard image={galleryImage27} />
+          <GalleryCard image={galleryImage27_1} />
+          <GalleryCard image={galleryImage27_2} />
         </div>
       </div>
       <div className="container mt-80">
@@ -199,6 +217,9 @@ const GalleryPage = () => {
           <GalleryCard image={galleryImage47} />
           <GalleryCard image={galleryImage48} />
           <GalleryCard image={galleryImage49} />
+          <GalleryCard image={galleryImage49_1} />
+          <GalleryCard image={galleryImage49_2} />
+          <GalleryCard image={galleryImage49_3} />
         </div>
       </div>
       <div className="container mt-80">
@@ -235,6 +256,16 @@ const GalleryPage = () => {
           <GalleryCard image={galleryImage62} />
           <GalleryCard image={galleryImage63} />
           <GalleryCard image={galleryImage64} />
+          <GalleryCard image={galleryImage65} />
+          <GalleryCard image={galleryImage66} />
+          <GalleryCard image={galleryImage67} />
+          <GalleryCard image={galleryImage68} />
+          <GalleryCard image={galleryImage69} />
+          <GalleryCard image={galleryImage70} />
+          <GalleryCard image={galleryImage71} />
+          <GalleryCard image={galleryImage72} />
+          <GalleryCard image={galleryImage73} />
+          <GalleryCard image={galleryImage74} />
         </div>
       </div>
     </section>
