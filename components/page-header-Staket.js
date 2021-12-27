@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import pageHeaderBg from "../assets/images/backgrounds/Staket_Img.webp";
+import pageHeaderBg from "../assets/images/backgrounds/Staket_Img.jpeg";
 
 const PageHeader = ({ title, crumbTitle }) => {
   return (
