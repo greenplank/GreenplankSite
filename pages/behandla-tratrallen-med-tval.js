@@ -14,7 +14,7 @@ const BehandlaTratrallenMedTval = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="Behandla-tratrallen-med-tval" crumbTitle="behandla-tratrallen" />
-      <section className="blog-details pt-120 pb-40">
+      <section className="blog-details pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

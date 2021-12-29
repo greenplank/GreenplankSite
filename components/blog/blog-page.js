@@ -285,7 +285,7 @@ const BLOG_DATA = [
 
 const BlogPage = () => {
   return (
-    <section className="news-page pt-120 pb-120">
+    <section className="news-page pb-120">
       <Container>
         <Row className="align-items-start align-items-md-center flex-column flex-md-row mb-60">
           <Col lg={12}>

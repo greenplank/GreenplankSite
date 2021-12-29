@@ -14,7 +14,7 @@ const HurmanbyggerenTrall = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="Hur-man-bygger-en-trall-balkong-komplett" crumbTitle="hur-man-bygger-en-trall-balkong" />
-      <section className="blog-details pt-120 pb-40">
+      <section className="blog-details pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

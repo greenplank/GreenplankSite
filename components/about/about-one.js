@@ -7,7 +7,7 @@ import image4 from "../../assets/images/backgrounds/about-profile.webp";
 
 const AboutOne = () => {
   return (
-    <section className="about-one text-center pt-120 pb-40">
+    <section className="about-one text-center pb-40">
       <Container>
         <Row style={{ marginBottom: "4em" }}>
           <Col lg={12}>

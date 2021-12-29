@@ -14,7 +14,7 @@ const vadarettbarbarstaket = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="Vad-ar-ett-barbar-staket" crumbTitle="vad-ar-ett-barbar-staket" />
-      <section className="blog-details pt-120 pb-40">
+      <section className="blog-details pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

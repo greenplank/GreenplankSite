@@ -97,7 +97,7 @@ import galleryImage74 from "../../assets/images/gallery/ClassicKompositrall/16.w
 
 const GalleryPage = () => {
   return (
-    <section className="gallery-page pt-120 pb-120">
+    <section className="gallery-page pb-120">
       <div className="container">
         <BlockTitle
           title={`Smart Cap komposittrall`}

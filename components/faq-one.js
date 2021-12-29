@@ -35,7 +35,7 @@ const ContextAwareToggle = ({ children, eventKey, callback }) => {
 };
 const FaqOne = () => {
   return (
-    <section className="faq-one pt-120">
+    <section className="faq-one">
       <Container>
         <Row>
           <Col lg={12}>

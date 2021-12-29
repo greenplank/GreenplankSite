@@ -22,7 +22,7 @@ const naturplankkompositplankagp7129 = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="naturplank-komposit-plank-gp7129-40140mm" crumbTitle="gp7129" />
-      <section className="blog-details pt-120 pb-40">
+      <section className="blog-details pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

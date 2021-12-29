@@ -32,7 +32,7 @@ const smartclassic = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="smart-komposittrall-smart-classic" crumbTitle="smart-komposittrall-smart-classic" />
-      <section className="blog-details pt-120 pb-40">
+      <section className="blog-details pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

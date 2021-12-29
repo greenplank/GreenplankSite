@@ -32,7 +32,7 @@ const evertilebalkongplattoret703t = () => {
                 <HeaderTwo />
                 <StickyHeader />
                 <PageHeader title="evertile-balkongplattor-et703t" crumbTitle="evertile-balkongplattor-et703t" />
-                <section className="blog-details pt-40 pb-40">
+                <section className="blog-details pb-40">
                     <Container>
                         <Row>
                             <Col md={12} lg={12}>

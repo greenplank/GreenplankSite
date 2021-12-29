@@ -21,7 +21,7 @@ const Anvandarvillkor = () => {
                 <HeaderTwo />
                 <PageHeader title="Anvandarvillkor" crumbTitle="anvandarvillkor" />
                 <StickyHeader />
-                <section className="about-one pt-120 pb-40">
+                <section className="about-one pb-40">
                     <Container>
                         <Row style={{ marginBottom: "4em" }}>
                             <Col lg={12}>

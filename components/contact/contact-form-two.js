@@ -521,7 +521,7 @@ export default function ContactFormTwo() {
   }
 
   return (
-    <section className="contact-page pt-120 pb-80">
+    <section className="contact-page pb-80">
       <Container>
         <Row>
           <Col lg={12}>
