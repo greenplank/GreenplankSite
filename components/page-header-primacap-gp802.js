@@ -1,13 +1,13 @@
 import React from "react";
 import Link from "next/link";
-import pageHeaderBg from "../assets/images/backgrounds/primcap-gp802.jpg";
+import pageHeaderBg3 from "../assets/images/backgrounds/primcap-gp802.jpg";
 
 const PageHeader = ({ title, crumbTitle }) => {
   return (
     <section className="page-header">
       <div
         className="page-header__bg"
-        style={{ backgroundImage: `url(${pageHeaderBg})` }}
+        style={{ backgroundImage: `url(${pageHeaderBg3})` }}
       ></div>
 
       <div className="container">
