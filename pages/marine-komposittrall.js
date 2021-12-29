@@ -3,6 +3,7 @@ import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
 import PageHeader from "../components/page-header-Marine";
+import PageHeader1 from "../components/page-header-Marine";
 import MarineKomposittrallSection from "../components/Produkter/marineKomposittrallSection";
 import BrandCarousel from "../components/brand-carousel";
 import Footer from "../components/footer";
@@ -19,7 +20,7 @@ const MarineKomposittrall = () => {
             </Head>
             <Layout pageTitle="Marine Komposittrall">
                 <HeaderTwo />
-                <PageHeader title="Marine Komposittrall" crumbTitle="Marine-Komposittrall" />
+                <PageHeader1 title="Marine Komposittrall" crumbTitle="Marine-Komposittrall" />
                 <StickyHeader />
                 <MarineKomposittrallSection />
                 <BrandCarousel />
