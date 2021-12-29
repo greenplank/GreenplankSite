@@ -36,7 +36,7 @@ const kompositstaketprivate = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="Komposit-staket-private" crumbTitle="komposit-staket-private" />
-      <section className="blog-details pb-40">
+      <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

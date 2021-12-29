@@ -31,7 +31,7 @@ const marine40 = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="marine-40-komposittrall" crumbTitle="marine-40-komposittrall" />
-      <section className="blog-details pb-40">
+      <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

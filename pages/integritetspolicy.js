@@ -20,7 +20,7 @@ const Integritetspolicy = () => {
         <HeaderTwo />
         <PageHeader title="Integritetspolicy" crumbTitle="Integritetspolicy" />
         <StickyHeader />
-        <section className="about-one pb-40">
+        <section className="about-one pt-40 pb-40">
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>

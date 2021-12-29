@@ -29,7 +29,7 @@ const smartcap = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="smart-komposittrall-smart-cap" crumbTitle="smart-komposittrall-smart-cap" />
-      <section className="blog-details pb-40">
+      <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>

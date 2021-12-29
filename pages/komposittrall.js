@@ -30,7 +30,7 @@ const Komposittrall = () => {
 
 
                 <KomposittrallSection />
-                <section className="about-one pb-40">
+                <section className="about-one pt-40 pb-40">
                     <Container>
                         <Row style={{ marginBottom: "2em" }}>
                             <Col lg={12}>

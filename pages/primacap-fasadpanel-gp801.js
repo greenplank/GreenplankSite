@@ -35,7 +35,7 @@ const fasadpanelgp801 = () => {
         <HeaderTwo />
         <StickyHeader />
         <PageHeader title="primacap-fasadpanel-gp801" crumbTitle="gp801" />
-        <section className="blog-details pb-40">
+        <section className="blog-details pt-40 pb-40">
           <Container>
             <Row>
               <Col md={12} lg={12}>

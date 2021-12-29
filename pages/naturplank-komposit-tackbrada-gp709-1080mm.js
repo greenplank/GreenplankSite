@@ -27,7 +27,7 @@ const naturplankkompositplankagp709 = () => {
         <Container>
           <Row>
             <Col md={12} lg={12}>
-            <div className="page-wrapper pb-40">
+            <div className="page-wrapper pt-40 pb-40">
                     {/*Smart Classic section start*/}
                     <div className="project-section">
                         <div className="container">

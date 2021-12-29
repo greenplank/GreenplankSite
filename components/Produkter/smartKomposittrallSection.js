@@ -52,7 +52,7 @@ const DATA = [
 
 const smartKomposittrallSection = () => {
   return (
-    <section className="news-page pb-120">
+    <section className="news-page pt-40 pb-120">
       {/* <Container>
         <Row className="align-items-start align-items-md-center flex-column flex-md-row mb-60">
           <Col lg={12}>

@@ -24,7 +24,7 @@ const HemGallery = () => {
                     </Col>
                 </Row>
                 <Row>
-                    <Col xl={6}>
+                    <Col xl={6} md={12} xs={12}>
                         <Row>
                             <Col md={12}>
                                 <a href="smart-komposittrall">
@@ -60,7 +60,7 @@ const HemGallery = () => {
                             </Col>
                         </Row>
                     </Col>
-                    <Col xl={6}>
+                    <Col xl={6} md={12} xs={12}>
                         <Row>
                             <Col md={6} xs={6}>
                                 <a href="marine-komposittrall">

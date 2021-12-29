@@ -9,7 +9,7 @@ import img4 from "../assets/images/43871518781118548-200x206.webp"
 
 const Varkampanj = () => {
     return (
-        <section className="about-one">
+        <section className="about-one pt-40">
             <div className="main-header__two">
                 <div className="main-header__top">
                     <Container>

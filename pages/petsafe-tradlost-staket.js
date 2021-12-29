@@ -14,7 +14,7 @@ const petsafetradlost = () => {
       <HeaderTwo />
       <StickyHeader />
       <PageHeader title="Petsafe-tradlost-staket" crumbTitle="petsafe-tradlost-staket" />
-      <section className="blog-details pb-40">
+      <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>
