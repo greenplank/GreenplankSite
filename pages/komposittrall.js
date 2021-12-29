@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeaderKomposittrall from "../components/page-header-komposittral";
+import PageHeaderKomposittrall from "../components/page-header-MarineCap";
 import KomposittrallSection from "../components/Produkter/komposittrallSection";
 import BrandCarousel from "../components/brand-carousel";
 import Footer from "../components/footer";

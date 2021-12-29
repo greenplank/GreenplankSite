@@ -4,7 +4,7 @@ import pageHeaderBg from "../assets/images/backgrounds/Sapphire.webp";
 
 const PageHeader = ({ title, crumbTitle }) => {
   return (
-    <section className="page-header">
+    <section className="page-header container">
       <div
         className="page-header__bg"
         style={{ backgroundImage: `url(${pageHeaderBg})` }}

@@ -2252,7 +2252,7 @@ h6 {
 
 @media (min-width: 1260px) {
   .main-menu .container {
-    max-width: 1250px;
+    /* max-width: 1250px; */
     padding-left: 40px;
     padding-right: 40px;
   }
@@ -2965,7 +2965,7 @@ h6 {
 }
 
 .main-header__two .main-menu .container {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgb(0, 0, 0);
   margin-bottom: -39.5px;
   position: relative;
   z-index: 11;
@@ -3711,7 +3711,7 @@ h6 {
   filter: grayscale(100%); */
   opacity: 1;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .page-header .container {
