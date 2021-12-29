@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 const AterfarsaljareTextSection = () => {
     return (
-        <section className=" text-center pt-120 pb-120">
+        <section className=" text-center pb-120">
 
 
             <Container>

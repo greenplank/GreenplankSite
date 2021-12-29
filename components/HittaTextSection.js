@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 
 const HittaTextSection = () => {
     return (
-        <section className=" text-center pt-120 pb-120">
+        <section className=" text-center pb-120">
 
 
             <Container>
