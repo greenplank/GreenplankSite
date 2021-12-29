@@ -21,7 +21,7 @@ const Garantier = () => {
         <HeaderTwo />
         <PageHeader title="Garantier" crumbTitle="Garantier" />
         <StickyHeader />
-        <section className="about-one pb-40">
+        <section className="about-one">
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
