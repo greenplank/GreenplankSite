@@ -2,19 +2,13 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeader from "../components/page-header-UltraSmart";
 import { Container, Row, Col } from "react-bootstrap";
 import Head from "next/head";
 import Grid from '@material-ui/core/Grid';
 
 import Image11 from "../assets/images/products/innerPages/Komposittrall/ultrasmart.webp";
 
-
-import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
-import pdfimg2 from "../assets/images/projects/pic.png";
-import pdfimg3 from "../assets/images/projects/pic1.png";
-import pdfimg4 from "../assets/images/projects/swedish.png";
-import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
 
 import Footer from "../components/footer";
 

@@ -3,7 +3,7 @@ import Layout from "../components/layout";
 import Grid from '@material-ui/core/Grid';
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeader from "../components/page-header-StaketPrivate";
 import { Container, Row, Col } from "react-bootstrap";
 
 import Image11 from "../assets/images/products/innerPages/staket_system/Private/image.webp";

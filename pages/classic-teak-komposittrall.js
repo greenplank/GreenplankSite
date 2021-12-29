@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeader from "../components/page-header-ClassicTeak";
 import { Container, Row, Col } from "react-bootstrap";
 import Image1 from "../assets/images/products/innerPages/Komposittrall/CLASSICKomposittrall.webp";
 
