@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader2 from "../components/page-header";
+import PageHeader2 from "../components/page-header-PrimeCap802";
 import { Container, Row, Col } from "react-bootstrap";
 import Head from "next/head";
 import Grid from '@material-ui/core/Grid';
@@ -34,7 +34,7 @@ const fasadpanelgp802 = () => {
         <HeaderTwo />
         <StickyHeader />
         <PageHeader2 title="primacap-fasadpanel-gp802" crumbTitle="gp802" />
-        <section className="blog-details pb-40">
+        <section className="blog-details pt-40 pb-40">
           <Container>
             <Row>
               <Col md={12} lg={12}>
