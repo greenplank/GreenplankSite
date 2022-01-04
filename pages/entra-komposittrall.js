@@ -23,6 +23,13 @@ import Footer from "../components/footer";
 
 const entraKomposittrall = () => {
     return (
+        <>
+         <Head>
+        <title>ENTRA™ komposittrall | ENTRA™ kompositbrädor - GreenPlank.se</title>
+        <meta name="title" content="ENTRA™ komposittrall | ENTRA™ kompositbrädor - GreenPlank.se" />
+        <meta name="description" content="ENTRA ™ komposittrall, exceptionellt hög prestanda och kvalitet - PVC-fri! . ENTRA™ kompositbrädor fångar värmen och skönheten i naturligt. " />
+      </Head>
+      
         <Layout pageTitle="entra-komposittrall">
             <HeaderTwo />
             <StickyHeader />
@@ -287,6 +294,7 @@ const entraKomposittrall = () => {
             </section>
             <Footer />
         </Layout>
+        </>
     );
 };
 

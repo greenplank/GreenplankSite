@@ -18,9 +18,9 @@ const everdeck = () => {
     return (
         <>
             <Head>
-                <title>EVERDECK™</title>
-                <meta name="title" content="EVERDECK™ - GreenPlank.se" />
-                <meta name="description" content="Komposittrall med träkänsla, kvalitet och skönhet i fokus. Prisvärda kompositdäck som passar stil och budget." />
+                <title>EVERDECK™ Komposittrall - GreenPlank.se</title>
+                <meta name="title" content="EVERDECK™ Komposittrall - GreenPlank.se" />
+                <meta name="description" content="EVERDECK™ Komposittrall prisvärt komposittrall för att passa din stil och din budget – PVC-fri!.Green Plank CLASSIC™ kompositbrädor i naturfiber." />
             </Head>
             <Layout pageTitle="everdeck-komposittrall">
                 <HeaderTwo />

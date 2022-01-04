@@ -28,7 +28,7 @@ const fasadpanelgp802 = () => {
       <Head>
         <title>PRIMACAP™ Fasadpanel – GP802</title>
         <meta name="title" content="PRIMACAP™ Fasadpanel – GP802 - GreenPlank.se" />
-        <meta name="description" content="Komposit fasadpanel GP802. Denna lätta, brandhämmande, supertåliga kompositpanel med låg underhåll, är belagd med en revolutionerande ASA-mantel." />
+        <meta name="description" content="PRIMA CAP™ GP802 kompositfasad skivor installeras utan clips. PRIMA CAP kompositfasadskivor erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster." />
       </Head>
       <Layout pageTitle="primacap-fasadpanel-gp802">
         <HeaderTwo />

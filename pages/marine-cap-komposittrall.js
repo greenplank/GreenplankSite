@@ -25,6 +25,13 @@ import Footer from "../components/footer";
 
 const marinecapkomposittrall = () => {
   return (
+    <>
+    <Head>
+        <title>MARINE CAP Komposittrall, perfekt trädäck för hemmet - Greenplank.se</title>
+        <meta name="title" content="MARINE CAP Komposittrall, perfekt trädäck för hemmet - Greenplank.se" />
+        <meta name="description" content="MARINE CAP Komposittrall är ingen vanlig trallbräda. Den revolutionerande 360º kapslingstekniken skyddar mot mögel, fukt och leriga vandringskängor." />
+      </Head>
+ 
     <Layout pageTitle="marine-cap-komposittrall">
       <HeaderTwo />
       <StickyHeader />
@@ -265,6 +272,7 @@ const marinecapkomposittrall = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

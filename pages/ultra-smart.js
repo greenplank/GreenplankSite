@@ -14,6 +14,13 @@ import Footer from "../components/footer";
 
 const ultrasmart = () => {
   return (
+    <>
+      <Head>
+        <title>Ultra-SMART däcksystem ett idealiskt val för balkong - Greenplank.se</title>
+        <meta name="title" content="Ultra-SMART däcksystem ett idealiskt val för balkong - Greenplank.se" />
+        <meta name="description" content="ULTRA SMART är designad för maximal hållbarhet.komposit trall motstår blekning, fläckar, mögel och kommer inte att ruttna, spricka eller skeva.ULTRA SMART-trädäcket är inspirerat av naturliga mineraler." />
+      </Head>
+   
     <Layout pageTitle="ultra-smart">
       <HeaderTwo />
       <StickyHeader />
@@ -138,6 +145,7 @@ const ultrasmart = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

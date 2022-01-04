@@ -20,6 +20,14 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7117 = () => {
   return (
+    <>
+     <Head>
+                <title>naturplank-kompositplank-gp7117-1768mm</title>
+                <meta name="title" content="naturplank-kompositplank-gp7117-1768mm" />
+                <meta name="description" content="NATURPLANK ™ Kompositplank – GP7117, känd som WPC, trä-plast-komposit. komposit plankor är ett idealiskt val av landskapsarkitekter . " />
+            </Head>
+   
+   
     <Layout pageTitle="naturplank-kompositplank-gp7117-1768mm">
       <HeaderTwo />
       <StickyHeader />
@@ -156,6 +164,7 @@ const naturplankkompositplankagp7117 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

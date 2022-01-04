@@ -12,9 +12,9 @@ const Entratrall = () => {
     return (
         <>
             <Head>
-                <title>ENTRA Trall</title>
-                <meta name="title" content="ENTRA Trall - GreenPlank.se" />
-                <meta name="description" content="ENTRA ™ solid komposittrall inspirerad av naturliga färger, struktur, skönhet och prestanda. Kompositvagn med tunga och spår." />
+                <title>ENTRA™ kompositbrädor | Entra wpc trall - GreenPlank.se</title>
+                <meta name="title" content="ENTRA™ kompositbrädor | Entra wpc trall - GreenPlank.se" />
+                <meta name="description" content="ENTRA™-Komposittrall, solid kompositträ av högsta kvalitet med tunga och spår. Exceptionellt hög prestanda och bästa kvalitet Entra trall" />
             </Head>
             <Layout pageTitle="Entra trall">
                 <HeaderTwo />

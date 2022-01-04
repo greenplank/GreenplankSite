@@ -25,6 +25,13 @@ import Head from "next/head";
 
 const marinejumbokomposittrall = () => {
   return (
+    <>
+     <Head>
+        <title>MARINE JUMBO Heavy Duty kommersiell komposit- GreenPlank.se</title>
+        <meta name="title" content="MARINE JUMBO Heavy Duty kommersiell komposit- GreenPlank.se" />
+        <meta name="description" content="MARINE JUMBO komposittrall är inspirerad av naturens styrka, och är det bredaste reversibla Heavy Duty-kompositplattan på marknaden, som används av nordiska kommuner." />
+      </Head>
+ 
     <Layout pageTitle="marine-jumbo-komposittrall">
       <HeaderTwo />
       <StickyHeader />
@@ -279,6 +286,7 @@ const marinejumbokomposittrall = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

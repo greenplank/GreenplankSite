@@ -25,6 +25,13 @@ import Footer from "../components/footer";
 
 const marineart = () => {
   return (
+    <>
+    <Head>
+        <title>MARINE ART Komposittrall - GreenPlank.se</title>
+        <meta name="title" content="MARINE ART Komposittrall - GreenPlank.se" />
+        <meta name="description" content="MARINE ART komposittrall är konstgjord för att ge din trädgård en modernare look. MARINE ART komposittrall av naturfiber erbjuder 3D-utseende. " />
+      </Head>
+    
     <Layout pageTitle="marine-art-komposittrall">
       <HeaderTwo />
       <StickyHeader />
@@ -263,6 +270,7 @@ const marineart = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

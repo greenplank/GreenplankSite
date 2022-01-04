@@ -28,6 +28,13 @@ import Footer from "../components/footer";
 
 const smartclassic = () => {
   return (
+    <>
+     <Head>
+        <title>SMART Classic komposittrall för byggnation - Greenplank.se</title>
+        <meta name="title" content="SMART Classic komposittrall för byggnation - Greenplank.se" />
+        <meta name="description" content="Greenplank tekniska dokument, installationsguider, underhållsguider, YouTube-videolänkar" />
+      </Head>
+
     <Layout pageTitle="smart-komposittrall-smart-classic">
       <HeaderTwo />
       <StickyHeader />
@@ -301,6 +308,7 @@ const smartclassic = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

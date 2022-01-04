@@ -20,6 +20,13 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7121 = () => {
   return (
+    <>
+      <Head>
+                <title>naturplank-kompositplank-gp7121-24140mm</title>
+                <meta name="title" content="naturplank-kompositplank-gp7121-24140mm" />
+                <meta name="description" content="Green Plank NATURPLANK ™ Kompositplank GP7121 med hög prestanda av naturfibrer är idealiska för olika utomhusapplikationer som uteplats, däck och trädgårdsmöbler, parkbänkar. " />
+            </Head>
+   
     <Layout pageTitle="naturplank-kompositplank-gp7121-24140mm">
       <HeaderTwo />
       <StickyHeader />
@@ -158,6 +165,7 @@ const naturplankkompositplankagp7121 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

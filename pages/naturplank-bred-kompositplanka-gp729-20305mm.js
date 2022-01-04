@@ -19,6 +19,14 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp729 = () => {
   return (
+    <>
+    <Head>
+                <title>naturplank-bred-kompositplanka-gp729-20305mm</title>
+                <meta name="title" content="naturplank-bred-kompositplanka-gp729-20305mm" />
+                <meta name="description" content="Green Plank NATURPLANK ™ högpresterande naturfibrer marina klassiska Kompositplank GP729 är idealiska för olika exteriörstillämpningar som ljudbarriärer för vägbanor," />
+            </Head>
+   
+    
     <Layout pageTitle="naturplank-bred-kompositplanka-gp729-20305mm">
       <HeaderTwo />
       <StickyHeader />
@@ -159,6 +167,7 @@ const naturplankkompositplankagp729 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

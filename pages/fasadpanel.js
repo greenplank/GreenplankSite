@@ -15,9 +15,9 @@ const fasadpanel = () => {
     return (
         <>
             <Head>
-                <title>Fasadpanel</title>
-                <meta name="title" content="Renovera fasadpanel - våra tips! - GreenPlank.se" />
-                <meta name="description" content="Green Plank komposit fasadpanel kräver lite att inget underhåll och backas upp av upp till 25-års begränsad produktgaranti." />
+                <title>Fasadpanel | Fasadbeklädnad - GreenPlank.se</title>
+                <meta name="title" content="Fasadpanel | Fasadbeklädnad - GreenPlank.se" />
+                <meta name="description" content="Fasadpanel och Fasadbeklädnad.Green Plank-Fasadpanel är väl testade av testlaboratorier. Fasadbeklädnad kräver lite eller inget underhåll." />
             </Head>
             <Layout pageTitle="Fasadpanel">
                 <HeaderTwo />

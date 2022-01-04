@@ -25,6 +25,13 @@ import Footer from "../components/footer";
 
 const smartcap = () => {
   return (
+    <>
+       <Head>
+        <title>SMART CAP komposit trall, utmärkt trädäcksval för familjer - Greenplank.se</title>
+        <meta name="title" content="SMART CAP komposit trall, utmärkt trädäcksval för familjer - Greenplank.se" />
+        <meta name="description" content="SMART CAP komposit trall är det unika förseglings systemet av komposit trall,det extremt låga underhållet, slät yta.SMART CAP teknologin, en oöverträffad barriär av ultraviolett ljus. " />
+      </Head>
+  
     <Layout pageTitle="smart-komposittrall-smart-cap">
       <HeaderTwo />
       <StickyHeader />
@@ -277,6 +284,7 @@ const smartcap = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

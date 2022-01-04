@@ -20,6 +20,13 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7241 = () => {
   return (
+    <>
+      <Head>
+                <title>naturplank-kompositplank-gp7121-24140mm</title>
+                <meta name="title" content="naturplank-kompositplank-gp7121-24140mm" />
+                <meta name="description" content="NATURTEAK ™ komposit teakbåtdäck ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved." />
+            </Head>
+    
     <Layout pageTitle="naturteak-kompositplank-gp7241-7236mm">
       <HeaderTwo />
       <StickyHeader />
@@ -156,6 +163,7 @@ const naturplankkompositplankagp7241 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

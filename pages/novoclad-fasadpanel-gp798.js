@@ -25,9 +25,9 @@ const fasadpanelgp798 = () => {
     return (
         <>
             <Head>
-                <title>Fasadpanel</title>
-                <meta name="title" content="NOVOCLAD™ Fasadpanel – GP798 - GreenPlank.se" />
-                <meta name="description" content="Underhållsfri komposit fasadpanel GP798. Fasadbeklädnad av naturligt kompositmaterial." />
+                <title>NOVOCLAD™ Fasadpanel | kompositfasad NovoClad - GreenPLank.se</title>
+                <meta name="title" content="NOVOCLAD™ Fasadpanel | kompositfasad NovoClad - GreenPLank.se" />
+                <meta name="description" content="Underhållsfri komposit fasadpanel NovoClad GP798. Fasadbeklädnad av naturligt kompositmaterial  valet för nya eller utbytbara fasadbeklädnadsprojekt." />
             </Head>
             <Layout pageTitle="novoclad-fasadpanel-gp798">
                 <HeaderTwo />

@@ -27,6 +27,13 @@ import Footer from "../components/footer";
 
 const smartregular = () => {
   return (
+    <>
+    <Head>
+        <title>Smart Regular komposittrall, Otroligt val - Greenplank.se</title>
+        <meta name="title" content="Smart Regular komposittrall, Otroligt val - Greenplank.se" />
+        <meta name="description" content="Vårt SMART Regular(komposittrall)- trall är inspirerad av naturliga mineraler och jord pigment, och föredras av husägare och arkitekter framför andra däck material." />
+      </Head>
+
     <Layout pageTitle="smart-komposittrall-smart-regular">
       <HeaderTwo />
       <StickyHeader />
@@ -285,6 +292,7 @@ const smartregular = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

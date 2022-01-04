@@ -27,9 +27,9 @@ const fasadpanelgp801 = () => {
   return (
     <>
       <Head>
-        <title>PRIMACAP™ Fasadpanel – GP801</title>
-        <meta name="title" content="PRIMACAP™ Fasadpanel – GP801 - GreenPlank.se" />
-        <meta name="description" content="Green Plank erbjuder PRIMA CAP™ fasadpanel GP801 till bästa pris. Det är innovationen bakom skönhet med utmärkt färghållning." />
+        <title>PRIMA CAP™ Fasadpanel | kompositfasad PRIMA CAP - GreenPlank.se</title>
+        <meta name="title" content="PRIMA CAP™ Fasadpanel | kompositfasad PRIMA CAP - GreenPlank.se" />
+        <meta name="description" content="PRIMA CAP™ Composite Fasadbeklädnads system är ett innovativt fasadsystem. Lättvikt, lågunderhåll, brandskyddande, superhållbar kompositfasad beklädnads panel för hemmet." />
       </Head>
       <Layout pageTitle="primacap-fasadpanel-gp801">
         <HeaderTwo />

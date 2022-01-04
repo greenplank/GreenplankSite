@@ -11,15 +11,23 @@ import Head from "next/head";
 
 const ClassicKomposittrall = () => {
     return (
-        <Layout pageTitle="Classic Komposittrall">
-            <HeaderTwo />
-            <PageHeader title="Classic Komposittrall" crumbTitle="ClassicKomposittrall" />
-            <StickyHeader />
-            <ClassicKomposittrallSection />
-           
-            <BrandCarousel />
-            <Footer />
-        </Layout>
+        <>
+            <Head>
+                <title>CLASSIC™ Komposittrall - GreenPlank.se</title>
+                <meta name="title" content="CLASSIC™ Komposittrall - GreenPlank.se" />
+                <meta name="description" content="Green Plank's Classic Komposittrall, vårt Classic trädäck ger en kostnadseffektiv och prestandahöjande uppgradering jämfört med tryckbehandlade trädäck." />
+            </Head>
+
+            <Layout pageTitle="Classic Komposittrall">
+                <HeaderTwo />
+                <PageHeader title="Classic Komposittrall" crumbTitle="ClassicKomposittrall" />
+                <StickyHeader />
+                <ClassicKomposittrallSection />
+
+                <BrandCarousel />
+                <Footer />
+            </Layout>
+        </>
     );
 };
 

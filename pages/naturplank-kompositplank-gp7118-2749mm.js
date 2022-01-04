@@ -20,6 +20,13 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7118 = () => {
   return (
+    <>
+        <Head>
+                <title>naturplank-kompositplank-gp7118-2749mm</title>
+                <meta name="title" content="naturplank-kompositplank-gp7118-2749mm" />
+                <meta name="description" content="NATURPLANK™ kompositplankor är ett idealiskt byggmaterial för att maximera livslängden för element i landskapet. Kompositplankor kan slipas eller sågas till valfri form" />
+            </Head>
+  
     <Layout pageTitle="naturplank-kompositplank-gp7118-2749mm">
       <HeaderTwo />
       <StickyHeader />
@@ -160,6 +167,7 @@ const naturplankkompositplankagp7118 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

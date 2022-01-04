@@ -27,6 +27,13 @@ import Footer from "../components/footer";
 
 const marine40 = () => {
   return (
+    <>
+    <Head>
+        <title>MARINE 40 Komposittrall, vackert realistisk trallbräda -GreenPlank.se</title>
+        <meta name="title" content="MARINE 40 Komposittrall, vackert realistisk trallbräda -GreenPlank.se" />
+        <meta name="description" content="MARINE 40 kompositträ, lågt underhåll, hög halkbeständig europeisk stil, naturfiber kompositträ. Bästa kvalitet komposit trall för hem och kontor." />
+      </Head>
+
     <Layout pageTitle="marine-40-komposittrall">
       <HeaderTwo />
       <StickyHeader />
@@ -298,6 +305,7 @@ const marine40 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

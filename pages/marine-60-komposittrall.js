@@ -29,6 +29,13 @@ import Footer from "../components/footer";
 
 const marine60 = () => {
   return (
+    <>
+      <Head>
+        <title>MARINE 60 Komposittrall designad för friluftsliv - GreenPlank.se</title>
+        <meta name="title" content="MARINE 60 Komposittrall designad för friluftsliv - GreenPlank.se" />
+        <meta name="description" content="MARINE 60™ komposittrall det professionella valet för kommersiella projekt.Det delikata naturinspirerade utseendet på Marine60 ™ komposittrall med en halkfri yta och vackra färger passar den skandinaviska estetiska stilen." />
+      </Head>
+
     <Layout pageTitle="marine-60-komposittrall">
       <HeaderTwo />
       <StickyHeader />
@@ -306,6 +313,7 @@ const marine60 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

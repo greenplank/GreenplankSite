@@ -20,6 +20,13 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7119 = () => {
   return (
+      <>
+      <Head>
+                <title>naturplank-kompositplank-gp7119-4090mm</title>
+                <meta name="title" content="naturplank-kompositplank-gp7119-4090mm" />
+                <meta name="description" content="NATURPLANK™ Kompositplank GP7119, träalternativ med oändliga kreativa, PVC-fri. komposit plankor  är  supertåliga komposittavla. " />
+            </Head>
+  
     <Layout pageTitle="naturplank-kompositplank-gp7119-4090mm">
       <HeaderTwo />
       <StickyHeader />
@@ -160,6 +167,7 @@ const naturplankkompositplankagp7119 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

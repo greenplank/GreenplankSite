@@ -18,6 +18,13 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7129 = () => {
   return (
+      <>
+       <Head>
+                <title>naturplank-komposit-plank-gp7129-40140mm</title>
+                <meta name="title" content="naturplank-komposit-plank-gp7129-40140mm" />
+                <meta name="description" content="NATURPLANK™ Komposit plank Känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank." />
+            </Head>
+    
     <Layout pageTitle="naturplank-komposit-plank-gp7129-40140mm">
       <HeaderTwo />
       <StickyHeader />
@@ -155,6 +162,7 @@ const naturplankkompositplankagp7129 = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

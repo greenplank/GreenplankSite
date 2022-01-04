@@ -30,9 +30,9 @@ const classicTeak = () => {
     return (
         <>
             <Head>
-                <title>Classic komposittrall</title>
-                <meta name="title" content="Classic komposittrall - GreenPlank.se" />
-                <meta name="description" content="CLASSIC Komposittrall inspirerad av den skandinaviska designtraditionen, som kännetecknas av estetik, enkelhet och funktionalitet." />
+                <title>Classic Teak komposittrall | Classic Trädäck - GreenPlank.se</title>
+                <meta name="title" content="Classic Teak komposittrall | Classic Trädäck - GreenPlank.se    " />
+                <meta name="description" content="Green Plank’s Classic Teak komposittrall, Vårt Classic komposittrall Beprövad nordisk kvalitetsträ för hårt väder. Classic™ kompositträ har varit det mest sålda trädäcket." />
             </Head>
             <Layout pageTitle="classic-teak-komposittrall">
                 <HeaderTwo />

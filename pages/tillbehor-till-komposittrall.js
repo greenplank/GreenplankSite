@@ -33,9 +33,9 @@ const tillbehortillkomposittrall = () => {
     return (
         <>
             <Head>
-                <title>Tillbehör till Komposittrall</title>
-                <meta name="title" content="Tillbehör till Komposittrall - GreenPlank.se" />
-                <meta name="description" content="Green Plank-komposittrall tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och underbara funktioner." />
+                <title>Komposit tillbehör | Tillbehor till Komposittrall - GreenPlank.se</title>
+                <meta name="title" content="Komposit tillbehör | Tillbehor till Komposittrall - GreenPlank.se" />
+                <meta name="description" content="Green Plank kompositdäck och kompositdecking tillbehör. SMART™ däcksystem, INGA CLIPS KRÄVS för montering och installation." />
             </Head>
             <Layout pageTitle="tillbehor-till-komposittrall">
                 <HeaderTwo />

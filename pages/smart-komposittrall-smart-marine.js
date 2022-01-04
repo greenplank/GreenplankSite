@@ -27,6 +27,13 @@ import Footer from "../components/footer";
 
 const smartmarine = () => {
   return (
+    <>
+       <Head>
+        <title>SMART Marine komposit trall | Naturligt snyggt trall - Greenplank.se</title>
+        <meta name="title" content="SMART Marine komposit trall | Naturligt snyggt trall - Greenplank.se" />
+        <meta name="description" content="SMART Marine komposit trall är inspirerad av naturliga mineraler och jord pigment.Buy Bästa kvalitet Komposittrall för hem och kontor på Greenplank.se" />
+      </Head>
+  
     <Layout pageTitle="smart-komposittrall-smart-marine">
       <HeaderTwo />
       <StickyHeader />
@@ -294,6 +301,7 @@ const smartmarine = () => {
       </section>
       <Footer />
     </Layout>
+    </>
   );
 };
 

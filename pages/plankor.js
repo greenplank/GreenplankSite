@@ -15,8 +15,8 @@ const Plankor = () => {
     return (
         <>
             <Head>
-                <title>Plankor</title>
-                <meta name="title" content="Hög kvalitet Plankor &amp; Komposittrall | - GreenPlank.se" />
+                <title>Plankor | kompositplankor - Greenplank.se</title>
+                <meta name="title" content="Plankor | kompositplankor - Greenplank.se" />
                 <meta name="description" content="Plankor ger en slät konsistens som är lätt att rengöra och lätt att underhålla. Det är vattentätt och kan användas som en ekonomisk mimeografi av keramiska plattor." />
             </Head>
             <Layout pageTitle="Plankor">
