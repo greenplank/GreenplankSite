@@ -101,7 +101,7 @@ const HeaderTwo = () => {
               <i className="azino-icon-address"></i>
               <div className="header-info__box-content">
                 <h3>Address</h3>
-                <p>Sadelgatan 9, SE-213 77 Malmö, Sweden</p>
+                <p><a target="_blank" href="https://goo.gl/maps/PbFoAPxjz9atGPbW6">Sadelgatan 9, SE-213 77 Malmö, Sweden</a></p>
               </div>
             </div>
           </div>

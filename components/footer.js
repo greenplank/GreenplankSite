@@ -136,7 +136,7 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a target="_blank" href="https://goo.gl/maps/PbFoAPxjz9atGPbW6">
                       <i className="azino-icon-pin"></i>Sadelgatan 9, SE-213 77 Malmö, Sweden
                     </a>
                   </li>
