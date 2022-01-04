@@ -12,8 +12,10 @@ const HittaHantverkare = () => {
     <>
       <Head>
         <title>Hitta Hantverkare</title>
-        <meta name="title" content="Hitta hantverkare av hållbara byggprodukter - GreenPlank.se" />
-        <meta name="description" content="Hitta din Green Plank-återförsäljare för våra många hållbara kompositprodukter nära dig." />
+        <meta name="title" content="Expert Hantverkare för snabb installation - Greenplank.se
+" />
+        <meta name="description" content="Hitta Hantverkare of Green Plank Natural Fiber Composite Products som är närmast dig för perfekt installation av komposit.
+" />
       </Head>
       <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
         <HeaderTwo />

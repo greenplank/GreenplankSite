@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { Container, Row, Col } from "react-bootstrap";
+import Byggochfix from "../assets/images/backgrounds/byggochfix.jpg";
+import Ebygghandel from "../assets/images/backgrounds/ebygghandel.webp";
+
 
 const AterfarsaljareTextSection = () => {
     return (
@@ -13,12 +16,13 @@ const AterfarsaljareTextSection = () => {
                 </div>
                 <div>
                     <Container>
-                        <Row>
+                        <Row className="text-center">
                             <Col md={3} xs={6}>
                                 <a href="https://byggochfix.se/">
                                     <div className="mt-20 mb-20">
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Byggochfix</b></h4>
+                                            <img src={Byggochfix} alt="Byggochfix" />
+                                            {/* <h4 className="title"><b>Byggochfix</b></h4> */}
                                         </div>
                                     </div>
                                 </a>
@@ -27,7 +31,8 @@ const AterfarsaljareTextSection = () => {
                                 <a href="https://ebygghandel.se">
                                     <div className="mt-20 mb-20">
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Ebygghandel</b></h4>
+                                            <img src={Ebygghandel} alt="Ebygghandel" />
+                                            {/* <h4 className="title"><b>Ebygghandel</b></h4> */}
                                         </div>
                                     </div>
                                 </a>

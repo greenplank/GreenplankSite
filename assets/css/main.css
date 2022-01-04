@@ -1767,7 +1767,7 @@
 body {
   font-family: var(--thm-font);
   color: var(--thm-color);
-  font-size: 18px;
+  /* font-size: 18px; */
   line-height: 1.89;
 }
 
