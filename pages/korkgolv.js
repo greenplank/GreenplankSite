@@ -10,6 +10,13 @@ import Head from "next/head";
 
 const Korkgolv = () => {
   return (
+    
+    <>
+     <Head>
+        <title>Återförsäljare</title>
+        <meta name="title" content="Bästa återförsäljare av kompositprodukter - Green Plank.se" />
+        <meta name="description" content="Hitta din Green Plank-återförsäljare för våra många hållbara kompositprodukter nära dig." />
+      </Head>
     <Layout pageTitle="Korkgolv">
       <HeaderTwo />
       <StickyHeader />
@@ -78,6 +85,7 @@ const Korkgolv = () => {
       </section>
       <Footer />
     </Layout>
+</>
   );
 };
 
