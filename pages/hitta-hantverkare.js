@@ -17,7 +17,7 @@ const HittaHantverkare = () => {
         <meta name="description" content="Hitta Hantverkare of Green Plank Natural Fiber Composite Products som är närmast dig för perfekt installation av komposit.
 " />
       </Head>
-      <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
+      <Layout pageTitle="Expert Hantverkare för snabb installation - Greenplank.se">
         <HeaderTwo />
         <PageHeader title="Hitta Green Plank Hantverkare" crumbTitle="HittaHantverkare" />
         <StickyHeader />
