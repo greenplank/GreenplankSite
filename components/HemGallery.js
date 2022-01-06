@@ -19,7 +19,7 @@ const HemGallery = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title ">
-                            <h3>Green Plank komposittrall produkter</h3>
+                            <h1>Green Plank komposittrall produkter</h1>
                         </div>
                     </Col>
                 </Row>
