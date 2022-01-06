@@ -15,7 +15,7 @@ const Aterfarsaljare = () => {
         <meta name="title" content="Bästa återförsäljare av kompositprodukter - Green Plank.se" />
         <meta name="description" content="Hitta din Green Plank-återförsäljare för våra många hållbara kompositprodukter nära dig." />
       </Head>
-      <Layout pageTitle="Hitta Green Plank Återförsäljare - GreenPlank.se">
+      <Layout pageTitle="Bästa återförsäljare av kompositprodukter - Green Plank.se">
         <HeaderTwo />
         <PageHeader title="Hitta Green Plank Återförsäljare" crumbTitle="Aterfarsaljare" />
         <StickyHeader />
