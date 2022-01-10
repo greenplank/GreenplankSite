@@ -49,7 +49,7 @@ const HeaderTwo = () => {
     <div className="main-header__two">
       <div className="main-header__top">
         <Container>
-          <p style={{color:"white"}}>Award Winning Company</p>
+          <p style={{color:"white"}}>A Swedish Award Winning Company</p>
           <div className="main-header__social">
             <a href="https://www.facebook.com/GreenplankSweden" aria-label="facebook">
               <i className="fab fa-facebook-square"></i>
@@ -82,7 +82,7 @@ const HeaderTwo = () => {
             <div className="header-info__box">
               <i className="azino-icon-email1"></i>
               <div className="header-info__box-content">
-                <h3>Email</h3>
+                <h3>E-post</h3>
                 <p>
                   <a href="mailto:info@greenplank.se">info@greenplank.se</a>
                 </p>
@@ -91,7 +91,7 @@ const HeaderTwo = () => {
             <div className="header-info__box">
               <i className="azino-icon-calling"></i>
               <div className="header-info__box-content">
-                <h3>Phone</h3>
+                <h3>Telefon</h3>
                 <p>
                   <a href="tel:+46 40 450 560">+46 40 450 560</a>
                 </p>
@@ -100,8 +100,8 @@ const HeaderTwo = () => {
             <div className="header-info__box">
               <i className="azino-icon-address"></i>
               <div className="header-info__box-content">
-                <h3>Address</h3>
-                <p><a target="_blank" href="https://goo.gl/maps/PbFoAPxjz9atGPbW6">Sadelgatan 9, SE-213 77 Malmö, Sweden</a></p>
+                <h3>Adress</h3>
+                <p><a target="_blank" href="https://goo.gl/maps/PbFoAPxjz9atGPbW6">Sadelgatan 9, SE-213 77 Malmö</a></p>
               </div>
             </div>
           </div>
