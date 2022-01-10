@@ -22,8 +22,8 @@ const HomeTwo = () => {
       <Head>
     <meta name=“google-site-verification” content=“tnWNe69KBE1qlIN2fpG0eEwe-dMpPi5VGPnbL_I6fQ4" />
         <meta name="robots" content="INDEX,FOLLOW" />
-        <meta name="title" content="Bästa komposittrall | golvplattor | staket och många fler!" />
-        <meta name="description" content="Green Plank är det ledande svenska varumärket för hållbara byggprodukter i Sverige. Skandinavisk kvalitets Komposittrall, Fasadbeklädnad, Plankor, Staket." />
+        <meta name="title" content="Miljövanliga komposittrall, fasad, staket och plank" />
+        <meta name="description" content="Green Plank är Europas ledande leverantör av komposittrall, fasadbeklädnad, staket och plank. Skandinavisk kvalitets komposittrall, kompositfasad, staket och plank med minimala underhållskrav för privata och offentliga miljöer." />
       </Head>
       <Layout pageTitle="Bästa komposittrall | golvplattor | staket och många fler!">
         <HeaderTwo />
