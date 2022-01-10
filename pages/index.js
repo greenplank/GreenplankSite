@@ -54,7 +54,7 @@ const HomeTwo = () => {
 
       <script>
         for (var i = 1; i= 150; i++)
-        document.querySelector("#fillme").innerHTML += "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ";
+        document.querySelector("#fillme").innerHTML += "Underhållsfria altangolv, fasadpanel, staket och plank med slitstark yta och träkänsla. Flera färger och mönster anpassad efter skandinavisk design och miljö. Brett sortiment. Skandinavisk kvalitet och design.";
       </script>
 
       <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
