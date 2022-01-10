@@ -64,22 +64,22 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/smart-komposittrall">
-                  <a>Smart Komposittrall</a>
+                  <a>Smart™ Komposittrall</a>
                 </Link>
               </li>
               <li>
                 <Link href="/marine-komposittrall">
-                  <a>Marine Komposittrall</a>
+                  <a>Marine™ Komposittrall</a>
                 </Link>
               </li>
               <li>
                 <Link href="/entra-trall">
-                  <a>Entra Komposittrall</a>
+                  <a>Entra™ Komposittrall</a>
                 </Link>
               </li>
               <li>
                 <Link href="/classic-komposittrall">
-                  <a>Classic Komposittrall</a>
+                  <a>Classic™ Komposittrall</a>
                 </Link>
               </li>
               <li>
@@ -89,7 +89,7 @@ const NavLinks = ({ extraClassName }) => {
               </li>
               <li>
                 <Link href="/everdeck-komposittrall">
-                  <a>EVERDECK Komposittrall</a>
+                  <a>Everdeck™ Komposittrall</a>
                 </Link>
               </li>
             </ul>
@@ -111,17 +111,17 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/novoclad-fasadpanel-gp798">
-                  <a>Novoclad-GP798</a>
+                  <a>Novoclad™ GP798</a>
                 </Link>
               </li>
               <li>
                 <Link href="/primacap-fasadpanel-gp801">
-                  <a>Primacap-GP801</a>
+                  <a>Primacap™ GP801</a>
                 </Link>
               </li>
               <li>
                 <Link href="/primacap-fasadpanel-gp802">
-                  <a>Primacap-GP802</a>
+                  <a>Primacap™ GP802</a>
                 </Link>
               </li>
               <li>
@@ -185,12 +185,12 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/instaclik-balkongplattor-gp702t">
-                  <a>INSTACLIK™ -GP702T</a>
+                  <a>INSTACLICK™ GP702T</a>
                 </Link>
               </li>
               <li>
                 <Link href="/evertile-balkongplattor-et703t">
-                  <a>EVERTILE™-ET703T</a>
+                  <a>EVERTILE™ ET703T</a>
                 </Link>
               </li>
             </ul>
