@@ -20,7 +20,7 @@ const HomeTwo = () => {
   return (
     <>
       <Head>
-    <meta name=“google-site-verification” content=“tnWNe69KBE1qlIN2fpG0eEwe-dMpPi5VGPnbL_I6fQ4" />
+    <meta name="google-site-verification" content="tnWNe69KBE1qlIN2fpG0eEwe-dMpPi5VGPnbL_I6fQ4" />
         <meta name="robots" content="INDEX,FOLLOW" />
         <meta name="title" content="Miljövanliga komposittrall, fasad, staket och plank med minimalt underhåll och maximal hållbarhet" />
         <meta name="description" content="Green Plank är Europas ledande leverantör av komposittrall, fasadbeklädnad, staket och plank sedan 2004. Skandinavisk kvalitets komposittrall, kompositfasad, staket och plank med minimala underhållskrav för privata och offentliga miljöer." />
