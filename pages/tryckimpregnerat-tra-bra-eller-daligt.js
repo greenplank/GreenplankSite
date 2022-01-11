@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const tryckimpregnerat = () => {
   return (
-    <Layout pageTitle="tryckimpregnerat-tra-bra-eller-daligt">
+    <Layout pageTitle="Tryckimpregnerat trätrall – bra eller dåligt?">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="tryckimpregnerat-tra-bra-eller-daligt" crumbTitle="tryckimpregnerat-tra-bra-eller-daligt" />
+      <PageHeader title="Tryckimpregnerat trätrall – bra eller dåligt?" crumbTitle="Tryckimpregnerat trätrall – bra eller dåligt?" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -24,9 +24,9 @@ const tryckimpregnerat = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Tryckimpregnerat trä – bra eller dåligt?</h2>
+                                <h2 className="title">Tryckimpregnerat trätrall – bra eller dåligt?</h2>
                                 <div className="mb-30">
-                                    <p>Tryckimpregnerat trä är mestadels av tall. Träet har en hållbarhet på mellan 20-25 år utomhus om det används korrekt.</p>
+                                    <p>Tryckimpregnerat trä är mestadels av trätall. Träet har en hållbarhet på mellan 10-25 år utomhus om det används korrekt.</p>
                                     <h3 style={{marginBottom:30,marginTop:30}}>Var ska man använda tryckimpregnerat trä?
                                     </h3>
                                     <p style={{marginBottom:30,marginTop:30}}>Tryckimpregnerat trä är perfekt för de platser där en struktur är i mer eller mindre konstant kontakt med jord eller vatten. Alternativt kan du välja en ek eller andra trätyper som håller länge, vilket är betydligt dyrare än billigt tryckimpregnerat trä.</p>
