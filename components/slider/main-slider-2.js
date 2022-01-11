@@ -214,11 +214,11 @@ const MainSliderTwo = () => {
                         <div >
                           <div className="block-title text-left">
                             <h3>
-                              <span style={{ color: "white",fontSize: "76px"  }}>Green Plank</span>
+                              <span style={{ color: "white",fontSize: "76px"  }}>Green Plank<sup>&reg;</sup></span>
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                            Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >
