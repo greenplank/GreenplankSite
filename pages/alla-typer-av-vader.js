@@ -12,9 +12,9 @@ const AllaTyperVader = () => {
   return (
     <>
       <Head>
-        <title>Alla typer av väder - GreenPlank.se</title>
-        <meta name="title" content="Alla typer av väder - GreenPlank.se" />
-        <meta name="description" content="Ge oss en chans att vara ditt favoritmärke; Eftersom Green Plank är ett hållbart varumärke för byggprodukter som representerar kvalitet, expertis och" />
+        <title>Green Plank underhållsfri komposittrall som passar nordiska klimat med snö, is & saltvatten!</title>
+        <meta name="title" content="Green Plank underhållsfri komposittrall som passar nordiska klimat med snö, is & saltvatten!" />
+        <meta name="description" content="Green Plank komposittrall håller sig vacker och formstabil längre, även i nordiska klimat med snö, is och stänk av saltvatten. Finns referenser från Norra till Södra Sverige i offentligamiljör." />
       </Head>
       <Layout pageTitle="Alla typer av väder - GreenPlank.se">
         <HeaderTwo />
