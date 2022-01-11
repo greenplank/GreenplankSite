@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "../../assets/images/backgrounds/greenplank-marinjumbo-öresund.jpg";
+import Img from "../assets/images/backgrounds/greenplank-marinjumbo-öresund.jpg";
 import { Container, Row, Col } from "react-bootstrap";
 
 const AllaTyperVader = () => {
