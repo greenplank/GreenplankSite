@@ -114,17 +114,17 @@ const ultrasmart = () => {
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Nyckelfunktioner av kompositdäck Ultra Smart
+                                <h2 className="mb-40 mt-20"><strong>Smart™ ULTRA - hållbar och lättvikt komposittrall funktioner
                                 </strong></h2>
                                 <ul>
                                   <li><strong>1. </strong>30 års garanti</li>
-                                  <li><strong>2. </strong>Lätt och solid bräda</li>
-                                  <li><strong>3. </strong> Fläckresistent, främst från vin och kaffe.</li>
-                                  <li><strong>4. </strong>Sömlös yta med vårt patenterade click-system.</li>
+                                  <li><strong>2. </strong>Lätt och solid trallbräda</li>
+                                  <li><strong>3. </strong>Fläckresistent, främst från vin och kaffe.</li>
+                                  <li><strong>4. </strong>Sömlös yta med vårt patenterade Smart click-system.</li>
                                   <li><strong>5. </strong>Ingen årlig målning, tätning eller oljning krävs.</li>
                                   <li><strong>6. </strong>Motstånd mot UV-ljus och färgblekning.</li>
                                   <li><strong>7. </strong>Fri från giftiga tillsatser.</li>
-                                  <li><strong>8. </strong>upp till 60% snabbare installation jämnfört med traditionellt däck</li>
+                                  <li><strong>8. </strong>upp till 60% snabbare installation jämnfört med traditionellt trädäck</li>
                                   <li><strong>9. </strong>WPC med träflisor</li>
                                   <li><strong>10. </strong>Det perfekta altangolv för din trädgård. Beställ idag!</li>
                                 </ul>
