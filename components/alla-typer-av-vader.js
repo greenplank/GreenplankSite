@@ -15,7 +15,7 @@ const AllaTyperVader = () => {
                             <h5 className="mb-30 mt-30">Här på Green Plank erbjuder vi ett brett utbud av väderbeständiga trendiga, hållbara terrassmaterial med garanterad kvalitet.</h5>
                             <h5 className="mb-30 mt-30"><strong>Vi fokuserar på att erbjuda dig kvalitetsmaterial för alla typer av väder eftersom vi vet att ingen vill kompromissa med sitt hus eller sin byggnad.
                             </strong></h5>
-                            <img src={Img} alt="Alla-Typer-av_vader_img" width="600px" />
+                            <img src={Img} alt="Alla-Typer-av_vader_img" width="900px" />
                             <h2 className="mb-30 mt-30">Varför är Green Plank-material bäst för all slags väder?
                             </h2>
                             <h5 className="mb-30 mt-30">Vi kan inte förneka vikten av alla slags väderbeständiga byggmaterial för våra hem och kontor. Slitstarkt och väder- bra material Material återspeglar våra val och gör ditt hem och din byggnad mer hållbar. Som ett paraplymärke omfattar Green Plank en bred varumärkesportfölj i de fyra kategorierna terrasser, fasadbeklädnad, plankor och stängsel, inklusive produktvarumärken som AVON Flooring.</h5>
