@@ -9,10 +9,10 @@ import Footer from "../components/footer";
 
 const vinylgolv = () => {
   return (
-    <Layout pageTitle="vinylgolv">
+    <Layout pageTitle="AVON Flooring<sup>&reg;</sup> Vinylgolv">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Vinylgolv" crumbTitle="vinylgolv" />
+      <PageHeader title="AVON Flooring<sup>&reg;</sup> Vinylgolv" crumbTitle="AVON Flooring<sup>&reg;</sup> Vinylgolv" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -23,7 +23,7 @@ const vinylgolv = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Vinylgolv</h2>
+                                <h2 className="title">AVON Flooring<sup>&reg;</sup> Vinylgolv</h2>
                                 <div className="mb-30">
                                     <p>Vinylgolv (polyvinylklorid (PVC). Är den moderna varianten av det klassiska PVC-golvet. Sedan 1960-talet användes PVC-golv i stor utsträckning i lägenheter, trapphus, kontor och i industriella och administrativa byggnader. De var billiga, lätta att ta hand om , och slitstarkt mot vatten och smuts och lätt att hålla rent genom att torka av med en fuktig trasa. PVC-golv kom i vanära på grund av den skadliga avdunstningen av mjukgörarna i mjuk PVC vid den tiden.</p>
                                     <p style={{marginBottom:30,marginTop:30}}>Branschen initierade en förbättring med initiativen ”Vinyl 2010” och ”Vinyl Plus” (fram till 2020). I synnerhet är frånvaron av skadliga ämnen och återvinning viktiga mål. Marknadsföring och användning av ftalat som mjukningsmedel har förbjudits i EU sedan 2015. Mesamoll används nu som mjukningsmedel för att ersätta ftalat.</p>
