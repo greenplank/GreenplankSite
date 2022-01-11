@@ -38,19 +38,19 @@ const AllaTyperVader = () => {
                             <strong>15. </strong>Återvinningsbar<br/>
                             <strong>16. </strong>Halkfritt
 
-                            <h3 className="mb-30 mt-30">Komposit trall</h3>
-                            <h5 className="mb-30 mt-30">Kompositdäck kan vara till hjälp för ägare och småbåtshamnar, försöker hitta en procentandel underhållsfria däck. Kompositbeläggningar är vanligtvis blekbeständiga och behöver inte fläckas eller vattentätas under hela sin period.</h5>
-                            <h5 className="mb-30 mt-30">På Green Planks erbjuder vi vidare underkategorier av kompositplattor, vilket nämns nedan</h5>
+                            <h3 className="mb-30 mt-30">Komposittrall</h3>
+                            <h5 className="mb-30 mt-30">Komposittrall kan vara till hjälp för ägare och småbåtshamnar, försöker hitta en procentandel underhållsfria trädäck. Komposittrall är vanligtvis blekbeständiga och behöver inte fläckas eller vattentätas under hela sin period.</h5>
+                            <h5 className="mb-30 mt-30">På Green Planks erbjuder vi vidare underkategorier av komposittrall, vilket nämns nedan</h5>
                            
-                                <strong>1. </strong>Smart terrass<br/>
-                                <strong>2. </strong>Marin trädäck<br/>
-                                <strong>3. </strong>Entra däck<br/>
-                                <strong>4. </strong>Klassisk trall
+                                <strong>1. </strong>Smart Komposittrall<br/>
+                                <strong>2. </strong>Marin Komposittrall<br/>
+                                <strong>3. </strong>Entra Komposittrall<br/>
+                                <strong>4. </strong>Classic Komposittrall
                             
-                            <h3 className="mb-30 mt-30">Green Plank Composite-trall jämfört med trä</h3>
-                            <h5 className="mb-30 mt-30">När man jämför kompositplattor mot träplattor är hållbarhet en av de viktigaste skillnaderna. Sedan 1980 har träplastkomposit, även känt som WPC, träalternativ eller naturfibrer komposit (NFC), snabbt blivit det snabbast växande trallmaterialet för bostäder och kommersiellt bruk. Många husägare väljer träplattor eftersom det är bekant, lättillgängligt och prisvärt. Samtidigt orsakar trästycksproblem som splinter, röta och högt underhåll många huvudvärk. Även om träplattor i komposit är lättare att underhålla, oroar vissa husägare att kompositer inte ser lika snygga ut som trä.</h5>
-                            <h5 className="mb-30 mt-30">Green Plank har dock utvecklat kompositer som efterliknar det rika, naturliga utseendet på trä utan besväret med att underhålla ett trädäck.</h5>
-                            <h5 className="mb-30 mt-30">Green Plank kompositplattor är ett miljövänligt träalternativ som kombinerar återvunnen plast och trä / ris skalfibrer.</h5>
+                            <h3 className="mb-30 mt-30">Green Plank Komposittrall jämfört med trätrall</h3>
+                            <h5 className="mb-30 mt-30">När man jämför kompositplattor mot träplattor är hållbarhet en av de viktigaste skillnaderna. Sedan 1980 har träplastkomposit, även känt som WPC, träalternativ eller naturfibrer komposit (NFC), snabbt blivit det snabbast växande trallmaterialet för bostäder och kommersiellt bruk. Många husägare väljer trätrall eftersom det är bekant, lättillgängligt och prisvärt. Samtidigt orsakar trästycksproblem som splinter, röta och högt underhåll många huvudvärk. Även om komposittrall är lättare att underhålla, oroar vissa husägare att komposittrall inte ser lika snygga ut som trätrall.</h5>
+                            <h5 className="mb-30 mt-30">Green Plank har dock utvecklat komposittrall som efterliknar det rika, naturliga utseendet på trä utan besväret med att underhålla ett trädäck.</h5>
+                            <h5 className="mb-30 mt-30">Green Plank komposittrall är ett miljövänligt träalternativ som kombinerar återvunnen plast och trä / ris skalfibrer.</h5>
                         </div>
                     </Col>
                 </Row>
