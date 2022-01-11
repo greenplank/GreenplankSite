@@ -20,11 +20,12 @@ const HomeTwo = () => {
   return (
     <>
       <Head>
-        <meta name="robots" content="INDEX,FOLLOW" />
-        <meta name="title" content="Bästa komposittrall | golvplattor | staket och många fler!" />
-        <meta name="description" content="Green Plank är det ledande svenska varumärket för hållbara byggprodukter i Sverige. Skandinavisk kvalitets Komposittrall, Fasadbeklädnad, Plankor, Staket." />
+      <meta name="google-site-verification" content="tnWNe69KBE1qlIN2fpG0eEwe-dMpPi5VGPnbL_I6fQ4" />
+      <meta name="robots" content="INDEX,FOLLOW" />
+        <meta name="title" content="Miljövanliga komposittrall, fasad, staket och plank med minimalt underhåll" />
+        <meta name="description" content="Green Plank är Europas ledande leverantör av komposittrall, kompositfasad, staket och plank sedan 2004. Skandinavisk kvalitets komposittrall för privata och offentliga miljöer." />
       </Head>
-      <Layout pageTitle="Bästa komposittrall | golvplattor | staket och många fler!">
+      <Layout pageTitle="Miljövanliga komposittrall, fasad, staket och plank med minimalt underhåll">
         <HeaderTwo />
         <StickyHeader extraClassName="stricky-header-two" />
         <MainSliderTwo />
@@ -53,7 +54,7 @@ const HomeTwo = () => {
 
       <script>
         for (var i = 1; i= 150; i++)
-        document.querySelector("#fillme").innerHTML += "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ";
+        document.querySelector("#fillme").innerHTML += "Underhållsfria altangolv, fasadpanel, staket och plank med slitstark yta och träkänsla. Flera färger och mönster anpassad efter skandinavisk design och miljö. Brett sortiment. Skandinavisk kvalitet och design ";
       </script>
 
       <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>

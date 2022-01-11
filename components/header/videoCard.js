@@ -21,7 +21,7 @@ const VideoCard = () => {
                 <Row>
                 <Col xl={12}>
                     <div className="text-center block-title">
-                        <h3>Designad i Sverige, Testad av SP.<br /> Innovativ med hög prestanda Smart™ komposittrall</h3>
+                        <h3>Designad i Sverige, Testad av SP.<br /> Innovativ Smart™ komposittrall med hög prestanda</h3>
                     </div>
                     </Col>
                     <Col xl={6}>
@@ -30,7 +30,7 @@ const VideoCard = () => {
                             <Container>
 
                                 {/* <h3>
-                                    Fördelar och nackdelar med trä komposit. <br />
+                                   Fördelar och nackdelar med träkomposit. <br />
                                 </h3> */}
                                 <div className="video-card__btn-block">
                                     <iframe width="560" height="480" src="https://www.youtube.com/embed/fe51I1VJEFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,12 +49,12 @@ const VideoCard = () => {
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon8} alt="" /> <span>Stark och hållbar komposittrall med 50 cm regelavstånd</span>
+                                            <img src={Icon8} alt="" /> <span>Slitstark och hållbar komposittrall med 50 cm regelavstånd</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon2} alt="" /> <span>Patenterad Smart Komposit med Not och Spont. Utan clips!</span>
+                                            <img src={Icon2} alt="" /> <span>Patenterad Smart™ Komposittrall med Not och Spont. Utan clips!</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
@@ -66,7 +66,7 @@ const VideoCard = () => {
                                 <Col md={6}>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon6} alt="" /> <span>Lågt Underhålls däck som inte ruttnar eller flisar</span>
+                                            <img src={Icon6} alt="" /> <span>Utegolv med lågt underhåll som inte ruttnar eller flisar</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
@@ -81,7 +81,7 @@ const VideoCard = () => {
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon4} alt="" /> <span>Slitstark och bekväm att gå på barfota</span>
+                                            <img src={Icon4} alt="" /> <span>Högkvalitativ, underhållsfri och väderbeständig altangolv i miljövänligt träkomposit</span>
                                         </p>
                                     </div>
                                 </Col>

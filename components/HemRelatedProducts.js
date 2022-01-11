@@ -17,7 +17,7 @@ const HemRelatedProducts = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title" style={{marginBottom:"2em"}}>
-                            <h3>Andra produkter</h3>
+                            <h3>Ytterpanel, båtgolv, staket och räcken i hållbar träkomposit med minimalt underhåll.</h3>
                         </div>
                     </Col>
                 </Row>

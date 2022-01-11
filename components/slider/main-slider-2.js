@@ -61,7 +61,7 @@ const MainSliderTwo = () => {
                 </h3>
               </div>
               <h2 style={{ marginBottom: "1em", color: "white", fontSize: "1rem" }}>
-                Miljövänlig komposit produkter med lågt underhåll
+              Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
               </h2>
 
               <Grid container spacing={3} >
@@ -283,7 +283,7 @@ const MainSliderTwo = () => {
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                          Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >
@@ -348,7 +348,7 @@ const MainSliderTwo = () => {
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                          Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >
@@ -413,7 +413,7 @@ const MainSliderTwo = () => {
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                          Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >
@@ -478,7 +478,7 @@ const MainSliderTwo = () => {
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                          Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >
@@ -543,7 +543,7 @@ const MainSliderTwo = () => {
                             </h3>
                           </div>
                           <h2 style={{ marginBottom: "1em", color: "white", fontSize: "2rem" }}>
-                            Miljövänlig komposit produkter med lågt underhåll
+                          Topp svensk varumärke för innovativa komposittrall, fasadbeklädnad & staket med träkänsla, hållbarhet & design i fokus!
                           </h2>
 
                           <Grid container spacing={3} >

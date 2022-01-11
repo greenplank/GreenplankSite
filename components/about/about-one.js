@@ -35,7 +35,7 @@ const AboutOne = () => {
           <Row>
             <Col md={12} lg={12} style={{ marginBottom: "4em" }}>
               <div className="block-title">
-                <h3>Välkommen till GreenPlank</h3>
+                <h1><b>Välkommen till GreenPlank</b></h1>
                 <h2>15 års erfarenhet inom industrin</h2>
                 <h5>
                   År 2001 deltog en ung Jamshaid Gill från Pakistan på en mässa i Wien, Österrike på ett seminarium om innovation inom teknik för kompositprodukter tillverkade med en mängd olika återvunna material och naturavfall.
