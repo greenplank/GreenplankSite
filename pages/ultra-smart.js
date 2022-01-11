@@ -52,7 +52,7 @@ const ultrasmart = () => {
                                   <li>Färgen bleknar inte med solljus och blir inte färgad av vin, olja, kaffe eller andra vätskor.</li>
                                 </ul>
                                 <p>Eftersom detta är en Green Plank Smart-produkt erbjuder den ett sömlöst utseende med not och spont som gör installationer upp till 60% snabbare än normalt komposittrall.
-                                  Den är installerad med 50 cm c/c och ger en mycket solid yta eftersom den låser ihop brädorna.</p>
+                                  Den är installerad med 25 cm c/c och ger en mycket solid yta eftersom den låser ihop brädorna.</p>
                                 <p>Smart™ ULTRA komposittrall erbjuder en mycket halksäker yta och är helt vattentät vilket gör den mycket lämplig för våta områden som runt pooler eller nära vattendrag.</p>
                               </div>
                             </div>
@@ -79,19 +79,23 @@ const ultrasmart = () => {
                                   <tbody>
                                     <tr>
                                       <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Skum PVC med träfiber.</td>
+                                      <td align="left">En sidoplan yta med 3D trä textuer, halksäker yta</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Längd:</strong></td>
-                                      <td align="left">ca. 3 m | 6 m</td>
+                                      <td align="left">ca. 360 cm</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left"><strong>Mått:</strong></td>
+                                      <td align="left">ca. 22 * 142 mm cm</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Vikt:</strong></td>
-                                      <td align="left">ca. 10 kg.</td>
+                                      <td align="left">ca. 9,07 kg. / st. (ca. 17,48 kg /㎡)</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">Ingen färgförändring, ASA-kapslad <br/>(beläggning) 50 cc</td>
+                                      <td align="left">Ingen färgförändring, ASA-kapslad <br/>(beläggning) 25 cc</td>
                                     </tr>
                                   </tbody>
                                 </table>
