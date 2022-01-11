@@ -16,9 +16,9 @@ const ultrasmart = () => {
   return (
     <>
       <Head>
-        <title>Ultra-SMART däcksystem ett idealiskt val för balkong - Greenplank.se</title>
-        <meta name="title" content="Ultra-SMART däcksystem ett idealiskt val för balkong - Greenplank.se" />
-        <meta name="description" content="ULTRA SMART är designad för maximal hållbarhet.komposit trall motstår blekning, fläckar, mögel och kommer inte att ruttna, spricka eller skeva.ULTRA SMART-trädäcket är inspirerat av naturliga mineraler." />
+        <title>Smart™ ULTRA - hållbar och lättvikt komposittrall, bäst för balkonger - 30 års garanti</title>
+        <meta name="title" content="Smart™ ULTRA - hållbar och lättvikt komposittrall, bäst för balkonger - 30 års garanti" />
+        <meta name="description" content="Underhållsfri och lättvikt komposittrall som passar bäst på uteplatsen eller på en balkong  - 30 års garanti. Smart™ ULTRA komposittrall är designad för maximal hållbarhet." />
       </Head>
    
     <Layout pageTitle="ultra-smart">
@@ -38,12 +38,12 @@ const ultrasmart = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>ULTRA™ Smart</h2>
-                          <strong>Med vår nya Smart Ultra får du en terrass som är 50% lättare och  25% starkare än tidigare modeller.</strong>
+                          <h2>Smart™ ULTRA - hållbar och lättvikt komposittrall</h2>
+                          <strong>Med vår nya Smart™ ULTRA komposittrall får du en terrass som är 50% lättare och 25% starkare än tidigare modeller.</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Smart Ultra är en solid profil tillverkad av träfiber och skum-PVC för en lätt och stark terrass som finns i två färger: Coffee Brown och Nordic Sand.</strong>
+                              <strong>Smart™ ULTRA komposittrall är en solid trallbräda tillverkad av träfiber och skum-PVC för en lätt och stark terrass som finns i två färger: Coffee Brown och Nordic Sand.</strong>
                               <div>
                                 <ul>
                                   <li>ASA-beläggning gör den reptålig och färgfast.</li>
@@ -51,9 +51,9 @@ const ultrasmart = () => {
                                   <li>Hög halksäkerhet och vi erbjuder 30 års garanti för slitage.</li>
                                   <li>Färgen bleknar inte med solljus och blir inte färgad av vin, olja, kaffe eller andra vätskor.</li>
                                 </ul>
-                                <p>Eftersom detta är en Green Plank Smart-produkt erbjuder den ett sömlöst utseende med tunga och spår som gör installationer upp till 60% snabbare än normalt kompositdäck.
+                                <p>Eftersom detta är en Green Plank Smart-produkt erbjuder den ett sömlöst utseende med not och spont som gör installationer upp till 60% snabbare än normalt komposittrall.
                                   Den är installerad med 50 cm c/c och ger en mycket solid yta eftersom den låser ihop brädorna.</p>
-                                <p>Ultra erbjuder en mycket halksäker yta och är helt vattentät vilket gör den mycket lämplig för våta områden som runt pooler eller nära vattendrag.</p>
+                                <p>Smart™ ULTRA komposittrall erbjuder en mycket halksäker yta och är helt vattentät vilket gör den mycket lämplig för våta områden som runt pooler eller nära vattendrag.</p>
                               </div>
                             </div>
                           </div>
@@ -122,7 +122,7 @@ const ultrasmart = () => {
                                   <li><strong>7. </strong>Fri från giftiga tillsatser.</li>
                                   <li><strong>8. </strong>upp till 60% snabbare installation jämnfört med traditionellt däck</li>
                                   <li><strong>9. </strong>WPC med träflisor</li>
-                                  <li><strong>10. </strong>Välj den perfekta produkten för er.Beställ idag!</li>
+                                  <li><strong>10. </strong>Det perfekta altangolv för din trädgård. Beställ idag!</li>
                                 </ul>
                               </div>
                             </div>
