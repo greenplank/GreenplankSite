@@ -13,7 +13,7 @@ const Varkampanj = () => {
             <div className="main-header__two">
                 <div className="main-header__top">
                     <Container>
-                        <p>Award Winning Company</p>
+                        <p>An Award Winning Swedish Company</p>
                         <div className="main-header__social">
                             <a href="https://www.facebook.com/GreenplankSweden" aria-label="facebook">
                                 <i className="fab fa-facebook-square"></i>
@@ -48,7 +48,7 @@ const Varkampanj = () => {
                                 <div className="header-info__box-content">
                                     <h3>Email</h3>
                                     <p>
-                                        <a href="mailto:ngill@greenplank.eu">ngill@greenplank.eu</a>
+                                        <a href="mailto:info@greenplank.eu">info@greenplank.eu</a>
                                     </p>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@ const Varkampanj = () => {
                                 <div className="header-info__box-content">
                                     <h3>Phone</h3>
                                     <p>
-                                        <a href="tel:+0761734777">+0761734777</a>
+                                        <a href="tel:+0761734777">+46 (0)761 734 777</a>
                                     </p>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@ const Varkampanj = () => {
                                 <i className="azino-icon-address"></i>
                                 <div className="header-info__box-content">
                                     <h3>Address</h3>
-                                    <p>Sadelgatan 9, SE-213 77 Malmö, Sweden</p>
+                                    <p>Sadelgatan 9, SE-213 77 Malmö, Sverige</p>
                                 </div>
                             </div>
                         </div>
