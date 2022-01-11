@@ -17,7 +17,7 @@ const HemRelatedProducts = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title" style={{marginBottom:"2em"}}>
-                            <h3>Ytterpanel, båtgolv, staket och räcken i hållbar träkomposit med minimalt underhåll.</h3>
+                            <h3>Ytterpanel, båtgolv, staket och räcken i hållbar komposit (NFC) med minimalt underhåll.</h3>
                         </div>
                     </Col>
                 </Row>
@@ -49,7 +49,7 @@ const HemRelatedProducts = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={Utomsuhbankar} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Utomhusbänkar</b></h4>
+                                            <h4 className="title"><b>Utemöbler</b></h4>
                                         </div>
                                     </div>
                                 </a>
