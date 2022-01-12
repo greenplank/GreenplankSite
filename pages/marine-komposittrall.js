@@ -13,7 +13,7 @@ const MarineKomposittrall = () => {
     return (
         <>
             <Head>
-                <title>Marine Komposittrall</title>
+                <title>MARINE™ massiv komposittrall - GreenPlank.se</title>
                 <meta name="title" content="MARINE™ massiv komposittrall - GreenPlank.se" />
                 <meta name="description" content="Green Plank lågt underhåll massiva trallbrädor i komposit. Massiv komposittrall från Green Plank är tillverkade och designade för maximal prestanda och är av yttersta klass inom träkomposit marknaden." />
             </Head>
