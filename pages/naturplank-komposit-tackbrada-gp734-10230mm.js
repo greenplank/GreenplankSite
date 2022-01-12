@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp734 = () => {
   return (
-    <Layout pageTitle="naturplank-komposit-tackbrada-gp734-10230mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / täckbräda GP734 10*230mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-komposit-tackbrada-gp734-10230mm" crumbTitle="gp734" />
+      <PageHeader title="NATURPLANK™ kompositplank / täckbräda GP734 10*230mm" crumbTitle="NATURPLANK™ kompositplank / täckbräda GP734 10*230mm" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -38,7 +38,7 @@ const naturplankkompositplankagp734 = () => {
                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                     <div className="project-details">
                                         <h2>
-                                            NATURPLANK ™ Kompositplank – GP734 – Det gröna alternativet</h2>
+                                            NATURPLANK ™ Kompositplank / Täckbräda – GP734 – Det gröna alternativet</h2>
                                         <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
                                         <div class="et_pb_text_inner">
                                             <div class="ce_text block">
