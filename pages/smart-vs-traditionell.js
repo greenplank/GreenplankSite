@@ -10,9 +10,9 @@ import Head from "next/head";
 
 const SmartTraditionell = () => {
   return (
-    <Layout pageTitle="Smart-vs-Traditionell">
+    <Layout pageTitle="Smart™ komposittrall vs. traditionell komposittrall">
       <HeaderTwo/>
-      <PageHeader title="Smart-vs-Traditionell" crumbTitle="smart-vs-traditionell" />
+      <PageHeader title="Smart™ komposittrall vs. traditionell komposittrall" crumbTitle="Smart™ komposittrall vs. traditionell komposittrall" />
       <StickyHeader />
       <SmartTraditionalSection />
       <BrandCarousel />
