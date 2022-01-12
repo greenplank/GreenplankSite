@@ -22,15 +22,15 @@ const naturplankkompositplankagp7118 = () => {
   return (
     <>
         <Head>
-                <title>naturplank-kompositplank-gp7118-2749mm</title>
-                <meta name="title" content="naturplank-kompositplank-gp7118-2749mm" />
+                <title>NATURPLANK™ kompositplank / kompositregel GP7118 27*49mm</title>
+                <meta name="title" content="NATURPLANK™ kompositplank / kompositregel GP7118 27*49mm" />
                 <meta name="description" content="NATURPLANK™ kompositplankor är ett idealiskt byggmaterial för att maximera livslängden för element i landskapet. Kompositplankor kan slipas eller sågas till valfri form" />
             </Head>
   
-    <Layout pageTitle="naturplank-kompositplank-gp7118-2749mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / kompositregel GP7118 27*49mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-kompositplank-gp7118-2749mm" crumbTitle="gp7118" />
+      <PageHeader title="NATURPLANK™ kompositplank / kompositregel GP7118 27*49mm" crumbTitle="NATURPLANK™ kompositplank / kompositregel GP7118 27*49mm" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
