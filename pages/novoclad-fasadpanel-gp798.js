@@ -25,14 +25,14 @@ const fasadpanelgp798 = () => {
     return (
         <>
             <Head>
-                <title>NOVOCLAD™ Fasadpanel | kompositfasad NovoClad - GreenPLank.se</title>
-                <meta name="title" content="NOVOCLAD™ Fasadpanel | kompositfasad NovoClad - GreenPLank.se" />
-                <meta name="description" content="Underhållsfri komposit fasadpanel NovoClad GP798. Fasadbeklädnad av naturligt kompositmaterial  valet för nya eller utbytbara fasadbeklädnadsprojekt." />
+                <title>NOVOCLAD™ Fasadpanel i komposit | Spontad ytterpanel - GreenPLank.se</title>
+                <meta name="title" content="NOVOCLAD™ Fasadpanel i komposit | Spontad ytterpanel - GreenPLank.se" />
+                <meta name="description" content="Underhållsfri komposit fasadpanel NovoClad GP798. Fasadbeklädnad av naturligt kompositmaterial. Ytterpanel används för utvändig beklädnad av husfasader." />
             </Head>
-            <Layout pageTitle="novoclad-fasadpanel-gp798">
+            <Layout pageTitle="NOVOCLAD™ Fasadpanel i komposit - GP798">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="novoclad-fasadpanel-gp798" crumbTitle="novoclad-fasadpanel-gp798" />
+                <PageHeader title="NOVOCLAD™ Fasadpanel i komposit - GP798" crumbTitle="NOVOCLAD™ Fasadpanel i komposit - GP798" />
                 <section className="blog-details pt-40 pb-40">
                     <Container>
                         <Row>
@@ -47,16 +47,16 @@ const fasadpanelgp798 = () => {
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
                                                         <h2>NOVOCLAD™ Fasadpanel – GP798</h2>
-                                                        <strong>innovativt fasadbeklädnadssystem för ditt hem – PVC-fri!</strong>
+                                                        <strong>innovativt fasadbeklädnadssystem för ditt hem – PVC-fri! (dubbelbottnad för att vara riktigt stabil)</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Traditionell och tidlös. Elegant och stark. NOVOCLAD ™ komposit Fasadpanel är inte bara en av Green Planks mest sålda fasadpanel profilen under de senaste åtta åren. Det är en hållbar, kostnadseffektiv och estetiskt tilltalande beklädnadsprofil som är speciellt utformad för att användas som ett integrerat system för att skydda ditt hems exteriör.</strong>
+                                                                <strong>Traditionell och tidlös. Elegant och stark. NOVOCLAD™ komposit fasadpanel är inte bara en av Green Planks mest sålda fasadpanel profilen under de senaste tio åren. Det är en hållbar, kostnadseffektiv och estetiskt tilltalande beklädnadsprofil som är speciellt utformad för att användas som ett integrerat system för att skydda ditt hems exteriör.</strong>
                                                                 <p>
-                                                                    NOVOCLAD? kompositfasad profil är konstnärligt konstruerad för att se ut som äkta trä utan oljning, målning eller tätning. Det vackra traditionella utseendet på trä och lång livslängd gör NOVOCLAD? komposit fasadpanel profil valet för nya eller utbytbara fasadbeklädnadsprojekt.
+                                                                    NOVOCLAD™ kompositfasad profil är konstnärligt konstruerad för att se ut som äkta trä utan oljning, målning eller tätning. Det vackra traditionella utseendet på trä och lång livslängd gör NOVOCLAD™ komposit fasadpanel profil valet för nya eller utbytbara fasadbeklädnadsprojekt.
                                                                 </p>
                                                                 <p>
-                                                                    NOVOCLAD – GP798 kompositfasad profiler installeras normalt antingen i horisontell eller vertikal riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
+                                                                    NOVOCLAD™ – GP798 kompositfasad profiler installeras normalt antingen i horisontell eller vertikal riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
                                                                 </p>
                                                                 <div>
                                                                     <ul>
@@ -218,7 +218,7 @@ const fasadpanelgp798 = () => {
 
                                                 {/*====================  Star Smart Classic Section-5 content ====================*/}
                                                 <div className="col-12 mb-80">
-                                                    <h3>Fasadpanel tillbehör</h3>
+                                                    <h3>fasadpanel tillbehör</h3>
                                                     <hr />
                                                     <p className="mb-40">Green Plank PRIMA CAP™ Kompositfasad tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i din fasad som förbättrar både skönhet och funktionalitet. Från kantlister till startande aluminiumstartlister, expansionsklipp, etc., här är alla fasadtillbehör du behöver för att slutföra ditt PRIMA CAP™ fasadpanel projekt.</p>
 
