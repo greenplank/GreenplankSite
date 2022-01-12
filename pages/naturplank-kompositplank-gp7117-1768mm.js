@@ -22,8 +22,8 @@ const naturplankkompositplankagp7117 = () => {
   return (
     <>
      <Head>
-                <title>naturplank-kompositplank-gp7117-1768mm</title>
-                <meta name="title" content="naturplank-kompositplank-gp7117-1768mm" />
+                <title>NATURPLANK™ kompositplank / kompositregel GP7117 17*68mm</title>
+                <meta name="title" content=">NATURPLANK™ kompositplank / kompositregel GP7117 17*68mm" />
                 <meta name="description" content="NATURPLANK ™ Kompositplank – GP7117, känd som WPC, trä-plast-komposit. komposit plankor är ett idealiskt val av landskapsarkitekter . " />
             </Head>
    
@@ -31,7 +31,7 @@ const naturplankkompositplankagp7117 = () => {
     <Layout pageTitle="naturplank-kompositplank-gp7117-1768mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-kompositplank-gp7117-1768mm" crumbTitle="gp7117" />
+      <PageHeader title=">NATURPLANK™ kompositplank / kompositregel GP7117 17*68mm" crumbTitle=">NATURPLANK™ kompositplank / kompositregel GP7117 17*68mm" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
