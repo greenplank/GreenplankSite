@@ -15,13 +15,13 @@ const staketsystem = () => {
     return (
         <>
             <Head>
-                <title>Exklusiv Staket</title>
-                <meta name="title" content="Exklusiv Staket | Moderna staket - GreenPlank.se" />
-                <meta name="description" content="Staket väggar är nu allmänt används som gränsen för att binda din trädgård, klimax ditt landskap struktur, eller vara i fokus för din exponering." />
+                <title>NOVOFENCE™ lågt underhåll staket plank i komposit - GreenPlank.se</title>
+                <meta name="title" content="NOVOFENCE™ lågt underhåll staket plank i komposit - GreenPlank.se" />
+                <meta name="description" content="Kompositstaket ger ett vackert, unikt alternativ till trä och vinyl staket. Våra kompositstaket är artificiellt konstruerade för att se ut som äkta trä." />
             </Head>
-            <Layout pageTitle="Staket System">
+            <Layout pageTitle="NOVOFENCE™ lågt underhåll staket plank i komposit">
                 <HeaderTwo />
-                <PageHeader title="Staket System" crumbTitle="Staket-System" />
+                <PageHeader title="NOVOFENCE™ lågt underhåll staket plank i komposit" crumbTitle="NOVOFENCE™ lågt underhåll staket plank i komposit" />
                 <StickyHeader />
                 <StaketSection />
                 <section className="about-one pt-40 pb-40">
@@ -36,7 +36,7 @@ const staketsystem = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda staket?</strong></h2>
+                                                        <h2><strong>Varför använda komposit staket?</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -51,7 +51,7 @@ const staketsystem = () => {
                                                                 <div>
                                                                     <h3>PROBLEMFRITT KOMPOSIT STAKET</h3>
                                                                     <p>
-                                                                        Staket är inte nytt. Det har funnits sedan 70-talet. Green Plank-staket är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks staket kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella staket, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                        Staket är inte nytt. Det har funnits sedan 70-talet. Green Plank-kompositstaket är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks kompositstaket kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella staket, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -66,7 +66,7 @@ const staketsystem = () => {
                                                                 <div className="about-content-two">
                                                                     <h3>Green Plank – ett låg underhålls kompositstaket som både är snyggt, hållbart och giftfritt !</h3>
                                                                     <p>
-                                                                        Med Green Plank-staket kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                        Med Green Planks NOVOFENCE kompositstaket kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
                                                                     </p>
                                                                 </div>
                                                             </div>
