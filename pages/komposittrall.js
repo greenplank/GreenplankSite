@@ -18,13 +18,13 @@ const Komposittrall = () => {
     return (
         <>
             <Head>
-                <title>Komposittrall</title>
-                <meta name="title" content="Komposittrall | Trädäck | Trädgårdsdäck - GreenPlank.se" />
-                <meta name="description" content="Skapa ditt dröm däck med greenplank, det bästa varumärket för komposittrall för hög prestanda i världen. Vår inramning, räcke och belysning kompletterar." />
+                <title>Green Plank Komposittrall - Underhållsfri träkomposit trall - GreenPlank.se</title>
+                <meta name="title" content="Green Plank Komposittrall - Underhållsfri träkomposit trall - GreenPlank.se" />
+                <meta name="description" content="Altangolv i komposit. Skapa ditt dröm altandäck med Green Plank komposittrall, det bästa varumärket för komposittrall för hög prestanda i världen. " />
             </Head>
-            <Layout pageTitle="Komposittrall">
+            <Layout pageTitle="Green Plank Komposittrall - Underhållsfri träkomposit trall">
                 <HeaderTwo />
-                <PageHeaderKomposittrall title="Komposittrall" crumbTitle="komposittrall" />
+                <PageHeader title="Green Plank Komposittrall" crumbTitle="Underhållsfri träkomposit trall" />
                 <StickyHeader />
 
 
