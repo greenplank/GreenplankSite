@@ -14,12 +14,12 @@ const MarineKomposittrall = () => {
         <>
             <Head>
                 <title>Marine Komposittrall</title>
-                <meta name="title" content="Marine komposittrall - GreenPlank.se" />
-                <meta name="description" content="Classic och EverDeck-komposittrall är bara något dyrare än tryckbehandlat trä. Och eftersom tryckbehandlat trä kräver regelbundet underhåll som färgning, kommer alla besparingar från lövträ att slösas bort på så lite som tre år." />
+                <meta name="title" content="MARINE™ massiv komposittrall - GreenPlank.se" />
+                <meta name="description" content="Green Plank lågt underhåll massiva trallbrädor i komposit. Massiv komposittrall från Green Plank är tillverkade och designade för maximal prestanda och är av yttersta klass inom träkomposit marknaden." />
             </Head>
-            <Layout pageTitle="Marine Komposittrall">
+            <Layout pageTitle="MARINE™ massiv komposittrall">
                 <HeaderTwo />
-                <PageHeader1 title="Marine Komposittrall" crumbTitle="Marine-Komposittrall" />
+                <PageHeader1 title="MARINE™ massiv komposittrall" crumbTitle="MARINE™ massiv komposittrall" />
                 <StickyHeader />
                 <MarineKomposittrallSection />
                 <BrandCarousel />
