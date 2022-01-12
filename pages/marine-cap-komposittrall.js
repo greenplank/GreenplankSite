@@ -27,15 +27,15 @@ const marinecapkomposittrall = () => {
   return (
     <>
     <Head>
-        <title>MARINE CAP Komposittrall, perfekt trädäck för hemmet - Greenplank.se</title>
-        <meta name="title" content="MARINE CAP Komposittrall, perfekt trädäck för hemmet - Greenplank.se" />
-        <meta name="description" content="MARINE CAP Komposittrall är ingen vanlig trallbräda. Den revolutionerande 360º kapslingstekniken skyddar mot mögel, fukt och leriga vandringskängor." />
+        <title>MARINECAP™ komposittrall, perfekt trädäck för hemmet - Greenplank.se</title>
+        <meta name="title" content="MARINECAP™ komposittrall, perfekt trädäck för hemmet - Greenplank.se" />
+        <meta name="description" content="MARINECAP™ komposittrall är ingen vanlig trallbräda. Den revolutionerande 360º kapslings tekniken skyddar mot mögel, fukt och leriga vandringskängor." />
       </Head>
  
     <Layout pageTitle="marine-cap-komposittrall">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-cap-komposittrall" crumbTitle="marine-cap-komposittrall" />
+      <PageHeader title="MARINECAP™ komposittrall med ytskikt av polymer" crumbTitle="MARINECAP™ komposittrall med ytskikt av polymer" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -49,14 +49,14 @@ const marinecapkomposittrall = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>MARINE CAP™ Komposittrall</h2>
+                          <h2>MARINECAP™ komposittrall med ytskikt av polymer</h2>
                           <strong>Okvalitet är vår högsta prioritet</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
                               <strong>MARINE CAP™ inkapslade komposittrall står ovanför konkurrensen tack vare sin revolutionerande extruderingsprocess. Den samutpressade komposittekniken är inte bara fantastiskt realistisk utan håller också upp i några av de hårdaste klimat runt om i världen.</strong>
                               <p>
-                                Green Plank MARINE CAP™ -Komposittrall med skyddande polymerlager är ingen vanlig Komposittrall. Den revolutionerande 360-graders tekniken skyddar mot mögel, fukt och leriga skor. Dessa toppmoderna co-extruderade kompositskivor är rep-, fläck- och varpbeständiga, vilket innebär att det orörda tillståndet i ditt lilla paradis bevaras.
+                                Green Planks MARINE CAP™ komposittrall med skyddande polymerlager är ingen vanlig komposittrall. Den revolutionerande 360-graders tekniken skyddar mot mögel, fukt och leriga skor. Dessa toppmoderna co-extruderade kompositskivor är rep-, fläck- och varpbeständiga, vilket innebär att det orörda tillståndet i ditt lilla paradis bevaras.
                                 Djup trägravprägling för förbättrade glidbeständiga ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.
                               </p>
                               <div>
