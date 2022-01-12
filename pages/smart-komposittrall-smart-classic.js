@@ -30,15 +30,15 @@ const smartclassic = () => {
   return (
     <>
      <Head>
-        <title>SMART Classic komposittrall för byggnation - Greenplank.se</title>
-        <meta name="title" content="SMART Classic komposittrall för byggnation - Greenplank.se" />
-        <meta name="description" content="Greenplank tekniska dokument, installationsguider, underhållsguider, YouTube-videolänkar" />
+        <title>SMART™ Classic™ komposittrall med skandinavisk klassisk design - Greenplank.se</title>
+        <meta name="title" content="SMART™ Classic™ komposittrall med skandinavisk klassisk design - Greenplank.se" />
+        <meta name="description" content="SMART™ Classic™ komposittrall med not och spont. Komposittrall med Skandinavisk klassisk design som passar till hela familjen." />
       </Head>
 
-    <Layout pageTitle="smart-komposittrall-smart-classic">
+    <Layout pageTitle="SMART™ Classic™ komposittrall med skandinavisk klassisk design">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="smart-komposittrall-smart-classic" crumbTitle="smart-komposittrall-smart-classic" />
+      <PageHeader title="SMART™ Classic™ komposittrall med skandinavisk klassisk design" crumbTitle="SMART™ Classic™ komposittrall med skandinavisk klassisk design" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -57,10 +57,10 @@ const smartclassic = () => {
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>SMART ™ (komposittrall) komposit trall är ett utmärkt val för familjer på grund av det unika Not och Spont systemet och den gapfria ( gap fria ) ytan. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insektsäker (insekt säker) och splintfri ( splint fri ), vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
-                              Vårt SMART Classic ™- ( komposittrall) komposit trall är inspirerad av naturliga mineraler och jordpigment, med ett estetiskt tilltalande av kontinuerliga och texturerade spår, färgpaletten färg paletten är rik och livlig – och föredras av husägare och arkitekter framför andra trall material. Varje noggrant formulerade nyans innehåller attraktiva multikromatiska ( multi kromatiska ) toner och strimmiga. SMART Classic ™ ( komposittrall ) komposit trall skivor är säkra att gå på med bara fötter.
+                              <strong>SMART™ Classic™ komposittrall representerar den skandinaviska designen det klassiska och enkla stilen. SMART™ Classic™ komposittrall är ett utmärkt val för familjer på grund av det unika Not och Spont systemet och den gapfria ( gap fria ) ytan. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insektsäker (insekt säker) och splintfri ( splint fri ), vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
+                              Vår SMART Classic™ komposittrall är inspirerad av naturliga mineraler och jordpigment, med ett estetiskt tilltalande av kontinuerliga och texturerade spår, färgpaletten färg paletten är rik och livlig – och föredras av husägare och arkitekter framför andra trall material. Varje noggrant formulerade nyans innehåller attraktiva multikromatiska ( multi kromatiska ) toner och strimmiga. SMART Classic™ komposittrall brädor är säkra att gå på med bara fötter.
                               SMART Classic – komposit brädor installeras utan några klämmor och fästs på bjälkarna med skruvar genom de för konstruerade långa fixerings- och dräneringshålen.
-                              Genom att använda SMART ™ komposit trall kan du skapa en helt stängd terrassyta som inte tillåter smuts att falla ner eller ogräs att växa upp.
+                              Genom att använda SMART™ komposittrall kan du skapa en helt stängd terrassyta som inte tillåter smuts att falla ner eller ogräs att växa upp.
                               <div>
                                 <ul>
                                   <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
@@ -68,7 +68,7 @@ const smartclassic = () => {
                                   <li><strong>Enhetlighet </strong>– Vår komposit Not och Spont trall ger mycket enhetliga och släta ytor.</li>
                                   <li><strong>Enkel installation</strong> – Det är också enkelt att installera vår Komposit Not och Spont trall, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
                                   <li><strong>Förfabrikerade hål </strong> ( för fabrikerade hål )– Våra Not och Spont trall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra skivorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri ( skruv fri ) finish.</li>
-                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART ™- komposit trall.</li>
+                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART™- komposittrall.</li>
                                 </ul>
                               </div>
                             </div>
@@ -212,7 +212,7 @@ const smartclassic = () => {
                                   Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
                                 <h3>Behåll skönheten</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposittrall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
@@ -241,7 +241,7 @@ const smartclassic = () => {
                       <div className="col-12 mb-80">
                         <h3>TILLBEHÖR</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Green Plank SMART™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART™ trall projekt.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
