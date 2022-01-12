@@ -57,12 +57,12 @@ const marinejumbokomposittrall = () => {
 
                               <strong>Green Plank MARINE JUMBO™ är inspirerad av naturens styrka, bakom bevis, och är det bredaste reversibla Heavy Duty-komposittrall på marknaden, som används av nordiska kommuner.</strong>
                               <p>
-                                Den kraftiga MARINE JUMBO™ naturfiber komposittrall är speciellt utvecklad för kommersiella kompositplattformar. Den är perfekt för tunga offentliga platser som nöjesparker, stadioner, strandpromenad, marinor och hotell. Den robusta, barfota vänliga ytan och ett traditionellt och elegant utseende levererar årtionden av hållbara prestanda med lågt underhåll. Med vändbara räfflade / räfflade borstad ytor, förbättrad halmotstånd och långvarig prestanda är vår MARINE JUMBO™ kompositplatta det professionella valet för kommersiella projekt.
+                                Den kraftiga MARINE JUMBO™ naturfiber komposittrall är speciellt utvecklad för kommersiella applikationer. Den är perfekt för tunga offentliga platser som nöjesparker, stadioner, strandpromenad, marinor och hotell. Den robusta, barfota vänliga ytan och ett traditionellt och elegant utseende levererar årtionden av hållbara prestanda med lågt underhåll. Med vändbara räfflade / räfflade borstad ytor, förbättrad halmotstånd och långvarig prestanda är vår MARINE JUMBO™ komposittrall det professionella valet för kommersiella projekt.
                                 Hög halksäker, borstad yta med räfflad / räfflad borstning för att ge bra grepp i våta områden som runt pooler, strandpromenader, de är säkra att gå på med bara fötter.</p>
-                              <p>Precis som äkta träskivor kan vår MARINE JUMBO™ kompositplatta slipas eller sågas till vilken önskad form som helst utan att tappningens äkta träeffekt ser ut.</p>
+                              <p>Precis som äkta träskivor kan vår MARINE JUMBO™ komposittrall slipas eller sågas till vilken önskad form som helst utan att tappningens äkta träeffekt ser ut.</p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – beprövad nordisk kvalitetsplattform för hårt väder och grönare boende.</li>
+                                  <li><strong>Premiumkvalitet</strong> – beprövad nordisk kvalitets komposittrall för hårt väder och grönare boende.</li>
                                   <li><strong>Uniformitet </strong> – HidLoc™ gömda däckfästen säkerställer en jämn och jämn yta som är säker att gå på.</li>
                                   <li><strong>Kompletterande tillbehör  </strong>– Slutför ditt terrassprojekt med våra fasadlister och lock – den perfekta matchningen för ditt högpresterande MARINE JUMBO™ -däck.</li>
 
