@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp733 = () => {
   return (
-    <Layout pageTitle="naturplank-komposit-tackbrada-gp733-10130mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / täckbräda GP733 10*130mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-komposit-tackbrada-gp733-10130mm" crumbTitle="gp733" />
+      <PageHeader title="NATURPLANK™ kompositplank / täckbräda GP733 10*130mm" crumbTitle="NATURPLANK™ kompositplank / täckbräda GP733 10*130mm" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
