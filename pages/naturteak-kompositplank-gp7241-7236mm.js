@@ -22,15 +22,15 @@ const naturplankkompositplankagp7241 = () => {
   return (
     <>
       <Head>
-                <title>naturplank-kompositplank-gp7121-24140mm</title>
-                <meta name="title" content="naturplank-kompositplank-gp7121-24140mm" />
-                <meta name="description" content="NATURTEAK ™ komposit teakbåtdäck ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved." />
+                <title>NATURTEAK™ komposit båtgolv gp7121 - GreenPlank.se</title>
+                <meta name="title" content="NATURTEAK™ komposit båtgolv gp7121 - GreenPlank.se" />
+                <meta name="description" content="NATURTEAK™ komposit teak båtgolv ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved." />
             </Head>
     
     <Layout pageTitle="naturteak-kompositplank-gp7241-7236mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturteak-kompositplank-gp7241-7236mm" crumbTitle="gp7241" />
+      <PageHeader title="NATURTEAK™ komposit båtgolv gp7121" crumbTitle="NATURTEAK™ komposit båtgolv gp7121" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
@@ -45,25 +45,25 @@ const naturplankkompositplankagp7241 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURTEAK™ – Halksäkert och tålig däck för båtar och yachter – bättre än teakdäck och pvc-plast</h2>
+                            NATURTEAK™ – Halksäkert och tålig båtgolv för båtar och yachter – bättre än teakdäck och pvc-plast</h2>
                           <strong>det gröna alternativet för teakträ med oändliga kreativa och designmöjligheter</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiskt och mycket praktiskt med en tidlös kvalitet NATURTEAK ™ Komposit med naturligt fiber teakgolv för båtar och yachter är mycket fjädrande, icke-halkande, UV-stabila och ser ut som äkta teakträ. Perfekt för lyxbåtar och yachter.</strong>
+                              <strong>Vackert realistiskt och mycket praktiskt med en tidlös kvalitet NATURTEAK™ komposit båtgolv med naturligt fiber teakgolv för båtar och yachter är mycket fjädrande, icke-halkande, UV-stabila och ser ut som äkta teakträ. Perfekt för lyxbåtar och yachter.</strong>
                               <p>
-                                Green Plank NATURTEAK ™ komposit teakbåtdäck ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved. Detta gröna alternativ för teakved är tillverkat av naturliga fibers komposit (risskalfiber och återvunna polymerer) som är lätt att arbeta med och underhålla. Det är det perfekta alternativet att uppgradera din båt och byta ut den snusiga gamla mattan. NATURTEAK ™ håller solen och den marina miljön i flera år medan du njuter av mer av din fritid.
+                                Green Plank NATURTEAK™ komposit teak båtgolv ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved. Detta gröna alternativ för teakved är tillverkat av naturliga fibers komposit (risskalfiber och återvunna polymerer) som är lätt att arbeta med och underhålla. Det är det perfekta alternativet att uppgradera din båt och byta ut den snusiga gamla mattan. NATURTEAK™ håller solen och den marina miljön i flera år medan du njuter av mer av din fritid.
                               </p>
                               <p>
-                                NATURTEAK ™ distribueras uteslutande av Green Plank och är speciellt formulerad med ingredienser som förhindrar att materialet torkar ut eller spricker över tid. Det har också det höga UV-skyddet för att förhindra blekning, insektsresistent, högsta fuktbeständighet, överlägsen vidhäftning och NATURTEAK ™ är stolta över att vara det enda naturfibrer som består av komposit teak-däck på marknaden.
+                                NATURTEAK™ distribueras uteslutande av Green Plank och är speciellt formulerad med ingredienser som förhindrar att materialet torkar ut eller spricker över tid. Det har också det höga UV-skyddet för att förhindra blekning, insektsresistent, högsta fuktbeständighet, överlägsen vidhäftning och NATURTEAK™ är stolta över att vara det enda naturfibrer som består av komposit teak-däck på marknaden.
                               </p>
                               <p>
-                                Precis som äkta teakträ, kan våra NATURTEAK ™ -kompositplankor bearbetas, slipas eller sågas till vilken önskad form som helst utan att förlora det verkliga träeffektutseendet på NATURTEAK ™ -komposit.
+                                Precis som äkta teakträ, kan våra NATURTEAK™ -komposit båtgolv bearbetas, slipas eller sågas till vilken önskad form som helst utan att förlora det verkliga träeffektutseendet på NATURTEAK™ -komposit båtgolv.
                               </p>
                               <div>
                                 <ul>
                                   <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
+                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK™ komposit teakdäck däcken svalare.</li>
                                   <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig teakträ design.</li>
                                   <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för marina väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
                                 </ul>
