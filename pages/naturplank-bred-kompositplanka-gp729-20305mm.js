@@ -21,16 +21,16 @@ const naturplankkompositplankagp729 = () => {
   return (
     <>
     <Head>
-                <title>naturplank-bred-kompositplanka-gp729-20305mm</title>
-                <meta name="title" content="naturplank-bred-kompositplanka-gp729-20305mm" />
+                <title>NATURPLANK™ kompositplank / komposit bullerplank GP729 20*305mm</title>
+                <meta name="title" content="NATURPLANK™ kompositplank / komposit bullerplank GP729 20*305mm" />
                 <meta name="description" content="Green Plank NATURPLANK ™ högpresterande naturfibrer marina klassiska Kompositplank GP729 är idealiska för olika exteriörstillämpningar som ljudbarriärer för vägbanor," />
             </Head>
    
     
-    <Layout pageTitle="naturplank-bred-kompositplanka-gp729-20305mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / komposit bullerplank GP729 20*305mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-bred-kompositplanka-gp729-20305mm" crumbTitle="gp729" />
+      <PageHeader title="NATURPLANK™ kompositplank / komposit bullerplank GP729 20*305mm" crumbTitle="NATURPLANK™ kompositplank / komposit bullerplank GP729 20*305mm" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -45,7 +45,7 @@ const naturplankkompositplankagp729 = () => {
                       <div className="col-lg-12 col-12 section-space--bottom--80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURPLANK™ Kompositplank – GP729 – det gröna alternativet</h2>
+                            NATURPLANK™ Kompositplank / bullerplank – GP729 – det gröna alternativet</h2>
                           <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
