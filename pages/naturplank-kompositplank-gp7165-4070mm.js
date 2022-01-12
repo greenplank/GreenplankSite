@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7165 = () => {
   return (
-    <Layout pageTitle="naturplank-kompositplank-gp7165-4070mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / kompositregel GP7165 40*70mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-kompositplank-gp7165-4070mm" crumbTitle="gp7165" />
+      <PageHeader title="NATURPLANK™ kompositplank / kompositregel" crumbTitle="NATURPLANK™ kompositplank / kompositregel" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
@@ -38,7 +38,7 @@ const naturplankkompositplankagp7165 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURPLANK™ Kompositplank – GP7165 – Det gröna alternativet</h2>
+                            NATURPLANK™ Kompositplank/ kompositregel – GP7165 – Det gröna alternativet</h2>
                           <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
@@ -96,11 +96,11 @@ const naturplankkompositplankagp7165 = () => {
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Längd:</strong></td>
-                                      <td align="left">ca. 3.6 m</td>
+                                      <td align="left">ca. 3,6 m</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Vikt:</strong></td>
-                                      <td align="left">ca. 3.86 kg / m</td>
+                                      <td align="left">ca. 3,86 kg / m</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Regelavstånd:</strong></td>
