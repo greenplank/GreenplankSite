@@ -27,15 +27,15 @@ const marinejumbokomposittrall = () => {
   return (
     <>
      <Head>
-        <title>MARINE JUMBO Heavy Duty kommersiell komposit- GreenPlank.se</title>
-        <meta name="title" content="MARINE JUMBO Heavy Duty kommersiell komposit- GreenPlank.se" />
-        <meta name="description" content="MARINE JUMBO komposittrall är inspirerad av naturens styrka, och är det bredaste reversibla Heavy Duty-kompositplattan på marknaden, som används av nordiska kommuner." />
+        <title>MARINE JUMBO Heavy Duty kommersiell komposittrall - GreenPlank.se</title>
+        <meta name="title" content="MARINE JUMBO Heavy Duty kommersiell komposittrall - GreenPlank.se" />
+        <meta name="description" content="MARINE JUMBO komposittrall är inspirerad av naturens styrka, och är det bredaste reversibla Heavy Duty-komposittrall på marknaden, som används av nordiska kommuner." />
       </Head>
  
-    <Layout pageTitle="marine-jumbo-komposittrall">
+    <Layout pageTitle="MARINE JUMBO™ Heavy Duty kommersiell komposittrall">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-jumbo-komposittrall" crumbTitle="marine-jumbo-komposittrall" />
+      <PageHeader title="MARINE JUMBO Heavy Duty kommersiell komposittrall" crumbTitle="MARINE JUMBO Heavy Duty kommersiell komposittrall" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -49,22 +49,22 @@ const marinejumbokomposittrall = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>Marine Jumbo™</h2>
-                          <strong>Heavy Duty kommersiell kompositplattform
+                          <h2>MARINE JUMBO™ Heavy Duty kommersiell komposittrall</h2>
+                          <strong>Heavy Duty kommersiell komposittrall
                             tidlös elegans för högre krav – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Green Plank MARINE JUMBO ™ är inspirerad av naturens styrka, bakom bevis, och är det bredaste reversibla Heavy Duty-kompositplattan på marknaden, som används av nordiska kommuner.</strong>
+                              <strong>Green Plank MARINE JUMBO™ är inspirerad av naturens styrka, bakom bevis, och är det bredaste reversibla Heavy Duty-komposittrall på marknaden, som används av nordiska kommuner.</strong>
                               <p>
-                                Den kraftiga MARINE JUMBO ™ naturfiberkompositplattan är speciellt utvecklad för kommersiella kompositplattformar. Den är perfekt för tunga offentliga platser som nöjesparker, stadioner, strandpromenad, marinor och hotell. Den robusta, barfota vänliga ytan och ett traditionellt och elegant utseende levererar årtionden av hållbara prestanda med lågt underhåll. Med vändbara räfflade / räfflade borstad ytor, förbättrad halmotstånd och långvarig prestanda är vår MARINE JUMBO ™ kompositplatta det professionella valet för kommersiella projekt.
+                                Den kraftiga MARINE JUMBO™ naturfiber komposittrall är speciellt utvecklad för kommersiella kompositplattformar. Den är perfekt för tunga offentliga platser som nöjesparker, stadioner, strandpromenad, marinor och hotell. Den robusta, barfota vänliga ytan och ett traditionellt och elegant utseende levererar årtionden av hållbara prestanda med lågt underhåll. Med vändbara räfflade / räfflade borstad ytor, förbättrad halmotstånd och långvarig prestanda är vår MARINE JUMBO™ kompositplatta det professionella valet för kommersiella projekt.
                                 Hög halksäker, borstad yta med räfflad / räfflad borstning för att ge bra grepp i våta områden som runt pooler, strandpromenader, de är säkra att gå på med bara fötter.</p>
-                              <p>Precis som äkta träskivor kan vår MARINE JUMBO ™ kompositplatta slipas eller sågas till vilken önskad form som helst utan att tappningens äkta träeffekt ser ut.</p>
+                              <p>Precis som äkta träskivor kan vår MARINE JUMBO™ kompositplatta slipas eller sågas till vilken önskad form som helst utan att tappningens äkta träeffekt ser ut.</p>
                               <div>
                                 <ul>
                                   <li><strong>Premiumkvalitet</strong> – beprövad nordisk kvalitetsplattform för hårt väder och grönare boende.</li>
-                                  <li><strong>Uniformitet </strong> – HidLoc ™ gömda däckfästen säkerställer en jämn och jämn yta som är säker att gå på.</li>
-                                  <li><strong>Kompletterande tillbehör  </strong>– Slutför ditt terrassprojekt med våra fasadlister och lock – den perfekta matchningen för ditt högpresterande MARINE JUMBO ™ -däck.</li>
+                                  <li><strong>Uniformitet </strong> – HidLoc™ gömda däckfästen säkerställer en jämn och jämn yta som är säker att gå på.</li>
+                                  <li><strong>Kompletterande tillbehör  </strong>– Slutför ditt terrassprojekt med våra fasadlister och lock – den perfekta matchningen för ditt högpresterande MARINE JUMBO™ -däck.</li>
 
                                 </ul>
                               </div>
@@ -223,7 +223,7 @@ const marinejumbokomposittrall = () => {
                       <div className="col-12 mb-80">
                         <h3>TILLBEHÖR</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Green Plank SMART™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART™ trall projekt.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
