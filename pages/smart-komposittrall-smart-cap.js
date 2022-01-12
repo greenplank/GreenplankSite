@@ -27,15 +27,15 @@ const smartcap = () => {
   return (
     <>
        <Head>
-        <title>SMART CAP komposit trall, utmärkt trädäcksval för familjer - Greenplank.se</title>
-        <meta name="title" content="SMART CAP komposit trall, utmärkt trädäcksval för familjer - Greenplank.se" />
-        <meta name="description" content="SMART CAP komposit trall är det unika förseglings systemet av komposit trall,det extremt låga underhållet, slät yta.SMART CAP teknologin, en oöverträffad barriär av ultraviolett ljus. " />
+        <title>SMARTCAP™ komposittrall med ett skyddande skal - Greenplank.se</title>
+        <meta name="title" content="SMARTCAP™ komposittrall med ett skyddande skal - Greenplank.se" />
+        <meta name="description" content="SmartCap™ komposittrall speglas din smarthet i ditt utedäck. SmartCap™ komposittrall står emot alla element som utomhusklimatet bidrar med - och lite mer." />
       </Head>
   
-    <Layout pageTitle="smart-komposittrall-smart-cap">
+    <Layout pageTitle="SMARTCAP™ komposittrall med ett skyddande skal">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="smart-komposittrall-smart-cap" crumbTitle="smart-komposittrall-smart-cap" />
+      <PageHeader title="SMARTCAP™ komposittrall med ett skyddande skal" crumbTitle="SMARTCAP™ komposittrall med ett skyddande skal" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -54,11 +54,11 @@ const smartcap = () => {
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>SMART CAP™ är täckt med ett skyddande polymer skal och är vår fjärde generationens co-extraherade komposit trall som är motståndskraftiga mot de element som varje däck håller ut. SMART CAP™ komposit trall är ett utmärkt val för familjer med det unika förseglings systemet, det extremt låga underhållet, slät yta. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insekt säker och splint fri, vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
+                              <strong>SMARTCAP™ komposittrall är täckt med ett skyddande polymer skal och är vår fjärde generationens komposittrall inkapslad med ett skyddande polymerskal som är motståndskraftiga mot de element som varje utedäck håller ut. SMARTCAP™ komposittrall är ett utmärkt val för familjer med det unika förseglings systemet, det extremt låga underhållet, slät yta. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insekt säker och splint fri, vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
                               <p>
-                                När du väljer Green Planks SMART CAP™- komposit trall, visar du ett trall som överträffar och håller utan att förlora sitt vackra, naturliga utseende. SMART CAP™ -teknologin ger en oöverträffad barriär mot de hårda effekterna av ultraviolett ljus, drivande regn, hög luftfuktighet och extrema värmer och kyla. Det erbjuder också en extra bonus av dimensionell stabilitet och slag motstånd. Det håller färgerna ser djupa och rika, år efter år.
-                                SMART? komposit brädor installeras utan några klämmor och fästs på bjälkarna med skruvar genom de prefabricerade långa fixerings- och dränerings hålen.
-                                Genom att använda SMART ™ komposit trall kan du skapa en helt stängd terrass yta som inte tillåter smuts att falla ner eller ogräs att växa upp.</p>
+                                När du väljer Green Planks SMARTCAP™ komposittrall, visar du ett trall som överträffar och håller utan att förlora sitt vackra, naturliga utseende. SMARTCAP™ -teknologin ger en oöverträffad barriär mot de hårda effekterna av ultraviolett ljus, drivande regn, hög luftfuktighet och extrema värmer och kyla. Det erbjuder också en extra bonus av dimensionell stabilitet och slag motstånd. Det håller färgerna ser djupa och rika, år efter år.
+                                SMART™ komposit brädor installeras utan några klämmor och fästs på bjälkarna med skruvar genom de prefabricerade långa fixerings- och dränerings hålen.
+                                Genom att använda SMART™ komposittrall kan du skapa en helt stängd terrass yta som inte tillåter smuts att falla ner eller ogräs att växa upp.</p>
                               <div>
                                 <ul>
                                   <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
@@ -67,7 +67,7 @@ const smartcap = () => {
                                   <li><strong>Enhetlighet </strong>– Vår komposit Not och Spont trall ger mycket enhetliga och släta ytor.</li>
                                   <li><strong>Enkel installation</strong> – Det är också enkelt att installera vår Komposit Not och Spont trall, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
                                   <li><strong>Förfabrikerade hål </strong> ( för fabrikerade hål )– Våra Not och Spont trall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra skivorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri ( skruv fri ) finish.</li>
-                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART ™- komposit trall.</li>
+                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART™- komposittrall.</li>
                                 </ul>
                               </div>
                             </div>
@@ -188,7 +188,7 @@ const smartcap = () => {
                                   Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
                                 <h3>Behåll skönheten</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposittrall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
@@ -217,7 +217,7 @@ const smartcap = () => {
                       <div className="col-12 mb-80">
                         <h3>TILLBEHÖR</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Green Plank SMART™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART™ trall projekt.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
