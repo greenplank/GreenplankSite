@@ -12,13 +12,13 @@ const SmartKomposittrall = () => {
     return (
         <>
             <Head>
-                <title>Smart komposittrall</title>
-                <meta name="title" content="Smart komposittrall - GreenPlank.se" />
-                <meta name="description" content="Ge din bakgård ett vackert, elegant däckgolv, med de extra fördelarna med lågt underhåll. Välj mellan SmartCap och Smart Komposittrall." />
+                <title>Smart™ Komposittrall med Not och Spont - enkel installation - GreenPlank.se</title>
+                <meta name="title" content="Smart™ Komposittrall med Not och Spont - enkel installation - GreenPlank.se" />
+                <meta name="description" content="Patenterad Smart™ Komposittrall med Not och Spont. Inga clips behövas för att montera Smart™ komposittrall. Trallbrädorna förs enkelt på plats där avståndet sker automatiskt och blir en jämn och slät yta." />
             </Head>
             <Layout pageTitle="Smart komposittrall - GreenPlank.se">
                 <HeaderTwo />
-                <PageHeader title="Smart komposittrall" crumbTitle="Smart komposittrall" />
+                <PageHeader title="Smart™ Komposittrall med Not och Spont" crumbTitle="Smart™ Komposittrall med Not och Spont" />
                 <StickyHeader />
                 <SmartKomposittrallSection />
 
