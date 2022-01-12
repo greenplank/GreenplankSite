@@ -26,9 +26,9 @@ const fasadpanelgp802 = () => {
   return (
     <>
       <Head>
-        <title>PRIMACAP™ Fasadpanel – GP802</title>
-        <meta name="title" content="PRIMACAP™ Fasadpanel – GP802 - GreenPlank.se" />
-        <meta name="description" content="PRIMA CAP™ GP802 kompositfasad skivor installeras utan clips. PRIMA CAP kompositfasadskivor erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster." />
+        <title>PRIMACAP™ Fasadpanel i komposit 25 års garanti - GreenPlank.se</title>
+        <meta name="title" content="PRIMACAP™ Fasadpanel i komposit 25 års garanti - GreenPlank.se" />
+        <meta name="description" content="PRIMACAP™ GP802 komposit fasadpanel installeras utan clips. PRIMACAP™ komposit fasadpanel erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster." />
       </Head>
       <Layout pageTitle="primacap-fasadpanel-gp802">
         <HeaderTwo />
@@ -52,9 +52,9 @@ const fasadpanelgp802 = () => {
                             <div class="et_pb_text_inner">
                               <div class="ce_text block">
 
-                                <strong>PRIMA CAP™ Fasadpanel av komposit är ett innovativt fasadesystem som är speciellt utformat för att användas som ett integrerat system för att skydda ditt hems exteriör och kommer med 25-årig ingen blekning och rotgaranti. Denna lätta, låga underhåll, brandskyddande, supertåliga komposit fasadbeklädnads panel är belagd med revolutionerande ASA-kapstock utan blekning för att motstå extrema temperaturer, tung fuktighet, frys / tö och allt däremellan.</strong>
+                                <strong>PRIMACAP™ Fasadpanel av komposit är ett innovativt fasadesystem som är speciellt utformat för att användas som ett integrerat system för att skydda ditt hems exteriör och kommer med 25-årig ingen blekning och rot garanti. Denna lätta, låga underhåll, brandskyddande, supertåliga komposit fasadbeklädnads panel är belagd med revolutionerande ASA-kapstock utan blekning för att motstå extrema temperaturer, tung fuktighet, frys / tö och allt däremellan.</strong>
                                 <p>
-                                  Green Plank PRIMA CAP™ -kompositpanel är konstgjord för att se ut som äkta trä utan krav på oljning, målning eller tätning. PRIMA CAP™ erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster, blekningsbeständiga lyxfärger, tidslös look och är det perfekta valet för husägare som söker värde med fördelarna med en premiumpanel.
+                                  Green Plank PRIMACAP™ -kompositpanel är konstgjord för att se ut som äkta trä utan krav på oljning, målning eller tätning. PRIMA CAP™ erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster, blekningsbeständiga lyxfärger, tidslös look och är det perfekta valet för husägare som söker värde med fördelarna med en premiumpanel.
                                 </p>
                                 <p>
                                   PRIMA CAP – GP802 Fasadpanel paneler installeras normalt antingen i horisontell eller vertikal riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
@@ -103,19 +103,19 @@ const fasadpanelgp802 = () => {
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Längd:</strong></td>
-                                        <td align="left">ca. 2.9 m</td>
+                                        <td align="left">ca. 2,9 m</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Åtgång:</strong></td>
-                                        <td align="left"> ca. 8.00 meter för 1 m²</td>
+                                        <td align="left"> ca. 8,00 meter för 1 m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Vikt:</strong></td>
-                                        <td align="left">ca. 8.91 kg / m²</td>
+                                        <td align="left">ca. 8,91 kg / m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Regelavstånd:</strong></td>
-                                        <td align="left">45 cm c/c för bostadsapplikationer</td>
+                                        <td align="left">35 cm c/c för bostadsapplikationer</td>
                                       </tr>
                                     </tbody>
                                   </table>
@@ -191,7 +191,7 @@ const fasadpanelgp802 = () => {
                                     <li><strong>5. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
                                     <li><strong>6. </strong>Exceptionell motståndskraft mot UV-ljus och skyddande beläggning innebär minimal färg blekning över tid</li>
                                     <li><strong>7. </strong>Används för nya eller ersättande fasadpanel projekt</li>
-                                    <li><strong>8. </strong>Inga fixeringsklipp krävs</li>
+                                    <li><strong>8, </strong>Inga fixeringsklipp krävs</li>
                                     <li><strong>9. </strong>Fri från giftiga tillsatser</li>
                                     <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
                                     <li><strong>11. </strong>Upp till 60% snabbare installation</li>
