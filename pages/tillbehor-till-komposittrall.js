@@ -33,14 +33,14 @@ const tillbehortillkomposittrall = () => {
     return (
         <>
             <Head>
-                <title>Komposit tillbehör | Tillbehor till Komposittrall - GreenPlank.se</title>
-                <meta name="title" content="Komposit tillbehör | Tillbehor till Komposittrall - GreenPlank.se" />
-                <meta name="description" content="Green Plank kompositdäck och kompositdecking tillbehör. SMART™ däcksystem, INGA CLIPS KRÄVS för montering och installation." />
+                <title>Komposittrall tillbehör | Tillbehör till komposittrall - GreenPlank.se</title>
+                <meta name="title" content="Komposittrall tillbehör | Tillbehör till komposittrall - GreenPlank.se" />
+                <meta name="description" content="Tillbehör till utegolv av komposittrall. Man kan kombinera ett eller fler tillbehör till sin komposittrall." />
             </Head>
-            <Layout pageTitle="tillbehor-till-komposittrall">
+            <Layout pageTitle="Tillbehör till komposittrall">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="tillbehor-till-komposittrall" crumbTitle="tillbehor-till-komposittrall" />
+                <PageHeader title="Tillbehör till komposittrall" crumbTitle="Tillbehör till komposittrall" />
                 <section className="blog-details pt-40 pb-40">
                     <Container>
                         <Row>
@@ -54,16 +54,16 @@ const tillbehortillkomposittrall = () => {
                                                 {/*====================  Star Smart Classic Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>Komposit tillbehör</h2>
-                                                        <strong>sista handen med design och säkerhet som gör ditt trall komplett</strong>
+                                                        <h2>Komposittrall tillbehör</h2>
+                                                        <strong>sista handen med design och säkerhet som gör ditt utegolv i träkomposit komplett</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
                                                                 <strong>Allt finns i detaljerna!   Din uppmärksamhet på kvalitet och detaljer har aldrig varit viktigare. Komposittrall tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och underbara funktioner i ditt Green Plank- trall som förbättrar både dess skönhet och funktionalitet – utan att ruttna, flisa eller blekna.</strong>
-                                                                <p>Green Plank erbjuder en komplett sortiment av lister inklusive Täcklister, L & F- och L- Lister, Trappnoslister, ändlock, däckmonteringssatser, pidestaler och reglar, etc. Alla föremål som är nödvändiga komponenter i varje professionell trall installation. Green Plank komposittillbehör är färgmatchade efter våra komposittrall.</p>
+                                                                <p>Green Plank erbjuder ett stort utbud av komposittrall tillbehör såsom lister inklusive täcklister, L & F lister,- och T-lister, trappnoslister, ändlock, däckmonteringssatser, däck plintar / terrassfot och reglar, etc. Alla föremål som är nödvändiga komponenter i varje professionell trall installation. Green Plank komposittrall tillbehör är färg matchade efter våra komposittrall.</p>
 
                                                                 <div>
-                                                                    <h2 className="mt-60">SMART ™ komposittrall – INGEN KLIPP KRÄVS</h2>
+                                                                    <h2 className="mt-60">SMART™ komposittrall – INGEN KLIPP KRÄVS</h2>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -72,7 +72,7 @@ const tillbehortillkomposittrall = () => {
                                                 {/*====================  End of Smart Classic Section-1 content  ====================*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-1 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-1 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -88,16 +88,16 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Komposit Ändlock för ihålig trall
+                                                                            Komposit Ändlock för ihålig komposittrall
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Förpackning:</strong> Låda
+                                                                            <strong>Förpackning:</strong>Låda
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Täppa till hålen på våra ihåliga däck
+                                                                            <strong>Användning:</strong>Täppa till hålen på våra ihåliga komposittrall
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Innehåll:</strong> 25 ändlock
+                                                                            <strong>Innehåll:</strong>25 st. ändlock
                                                                         </li>
 
                                                                     </ul>
@@ -107,10 +107,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-1 content =========*/}
+                                                {/*====================  End of Tillbehör Section-1 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-2 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-2 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -125,14 +125,14 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Förpackning:</strong> Låda
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket komposittrall)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
                                                                             120 skruvar, 1 borrspets, 1 torx bit T8
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Användning:</strong> För vår komposittrall med håliga kanter.
                                                                         </li>
 
                                                                     </ul>
@@ -148,9 +148,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-2 content =========*/}
+                                                {/*====================  End of Tillbehör Section-2 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-3 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-3 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -172,14 +172,14 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Förpackning:</strong> Låda
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket komposittrall)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
                                                                             120 skruvar, 1 borrspets, 1 torx bit T8
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Användning:</strong> För vår komposittrall med håliga kanter.
                                                                         </li>
 
                                                                     </ul>
@@ -188,9 +188,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-3 content =========*/}
+                                                {/*====================  End of Tillbehör Section-3 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-4 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-4 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -205,14 +205,14 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Förpackning:</strong> Låda
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket komposittrall)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
                                                                             120 skruvar, 1 borrspets, 1 torx bit T8
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Användning:</strong> För vår komposittrall med håliga kanter.
                                                                         </li>
 
                                                                     </ul>
@@ -228,9 +228,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-4 content =========*/}
+                                                {/*====================  End of Tillbehör Section-4 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-5 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-5 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -246,22 +246,22 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit täcklist liten
+                                                                            NATURPLANK™ Komposit täcklist GP780
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 80 mm
+                                                                            <strong>Storlek:</strong> ca. 10 * 80 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4m, 2.2m, 1.9m
+                                                                            <strong>Längd:</strong> ca. 2,4m, 2,2m, 1,9m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.4 kg / m
+                                                                            <strong>Vikt:</strong>  ca. 1,4 kg / m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Skruvar (Förborrning krävs)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -270,9 +270,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-5 content =========*/}
+                                                {/*====================  End of Tillbehör Section-5 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-6 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-6 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -287,16 +287,16 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 10 * 130 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
+                                                                            <strong>Längd:</strong>  ca. 2,4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.61 kg / m
+                                                                            <strong>Vikt:</strong>  ca. 1,61 kg / m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Skruvar (Förborrning krävs)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -313,9 +313,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-6 content =========*/}
+                                                {/*====================  End of Tillbehör Section-6 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-7 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-7 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -337,16 +337,16 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 10 * 230 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
+                                                                            <strong>Längd:</strong>  ca. 2,4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 2.88 kg / m
+                                                                            <strong>Vikt:</strong>  ca. 2,88 kg / m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Skruvar (Förborrning krävs)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -355,10 +355,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-7 content =========*/}
+                                                {/*====================  End of Tillbehör Section-7 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-8 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-8 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -373,16 +373,16 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4 m
+                                                                            <strong>Längd:</strong> ca. 2,4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 0.65 kg / m
+                                                                            <strong>Vikt:</strong>  ca. 0,65 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett Vattenfast polyuretanlim för utomhusbruk
+                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett vattenfast polyuretanlim för utomhusbruk
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att en snygg kant till ert däck
+                                                                            <strong>Användning:</strong> För att en snygg kant till ert utegolv i komposit
                                                                         </li>
 
                                                                     </ul>
@@ -398,9 +398,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-8 content =========*/}
+                                                {/*====================  End of Tillbehör Section-8 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-9 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-9 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -419,16 +419,16 @@ const tillbehortillkomposittrall = () => {
                                                                             SMART™ Komposit L-list
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
+                                                                            <strong>Storlek:</strong>  ca. 32 * 45,2 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> List för våra Smart™ Produkter
+                                                                            <strong>Användning:</strong> List för våra Smart™ komposittrall produkter
                                                                         </li>
 
                                                                     </ul>
@@ -437,9 +437,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-9 content =========*/}
+                                                {/*====================  End of Tillbehör Section-9 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-10 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-10 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -451,16 +451,16 @@ const tillbehortillkomposittrall = () => {
                                                                             SMART™ komposit F-list
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
+                                                                            <strong>Storlek:</strong>  ca. 32 * 45,2 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> List för våra Smart™ Produkter
+                                                                            <strong>Användning:</strong> List för våra Smart™ komposittrall produkter
                                                                         </li>
 
                                                                     </ul>
@@ -476,10 +476,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-10 content =========*/}
+                                                {/*====================  End of Tillbehör Section-10 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-11 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-11 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -498,10 +498,10 @@ const tillbehortillkomposittrall = () => {
                                                                             SMART™ Aluminium väggmonteringslist
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>   ca. 32 * 45.2 mm
+                                                                            <strong>Storlek:</strong>   ca. 32 * 45,2 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong>  Med skruvar
@@ -516,10 +516,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-11 content =========*/}
+                                                {/*====================  End of Tillbehör Section-11 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-12 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-12 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -534,7 +534,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong> ca. 45 * 15.4 mm (3.5)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
@@ -556,10 +556,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-12 content =========*/}
+                                                {/*====================  End of Tillbehör Section-12 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-13 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-13 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -575,19 +575,19 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium L-List
+                                                                            SMART™ Aluminium L-list
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>  ca. 45 * 45mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Med våra Smart produkter
+                                                                            <strong>Användning:</strong> Med våra Smart™ komposittrall produkter
                                                                         </li>
 
                                                                     </ul>
@@ -596,10 +596,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-13 content =========*/}
+                                                {/*====================  End of Tillbehör Section-13 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-14 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-14 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -608,19 +608,19 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium F-List
+                                                                            SMART™ Aluminium F-list
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>  ca. 45 * 45 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Längd:</strong> ca. 1,9 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong>Vattenfast polyuretanliv för utomhusbruk eller skruvar
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Med våra Smart produkter
+                                                                            <strong>Användning:</strong> Med våra Smart™ komposittrall produkter
                                                                         </li>
 
                                                                     </ul>
@@ -636,10 +636,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-14 content =========*/}
+                                                {/*====================  End of Tillbehör Section-14 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-15 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-15 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -661,17 +661,17 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>   ca. 10 * 25 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.2 m ,2.4m
+                                                                            <strong>Längd:</strong> ca. 2,2 m ,2,4m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Vikt:</strong>  ca. 0.82 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett
-                                                                            Vattenfast polyuretanlim för utomhusbruk
+                                                                            <strong>Installation:</strong> Skruvar (förborrning krävs) eller ett
+                                                                            vattenfast polyuretanlim för utomhusbruk
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -680,10 +680,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-15 content =========*/}
+                                                {/*====================  End of Tillbehör Section-15 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-16 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-16 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -698,17 +698,17 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>   ca. 10 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.2 m
+                                                                            <strong>Längd:</strong> ca. 2,2 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Vikt:</strong>  ca. 0.82 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett
-                                                                            Vattenfast polyuretanlim för utomhusbruk
+                                                                            <strong>Installation:</strong> Skruvar (förborrning krävs) eller ett
+                                                                            vattenfast polyuretanlim för utomhusbruk
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -725,9 +725,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-16 content =========*/}
+                                                {/*====================  End of Tillbehör Section-16 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-17 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-17 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -749,17 +749,17 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 25 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
+                                                                            <strong>Längd:</strong>  ca. 2,4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.28 kg / m
+                                                                            <strong>Vikt:</strong>  ca. 1,28 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller
-                                                                            ett Vattenfast polyuretanlim för utomhusbruk
+                                                                            <strong>Installation:</strong> Skruvar (förborrning krävs) eller
+                                                                            ett vattenfast polyuretanlim för utomhusbruk
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert utegolv i komposit i komposit.
                                                                         </li>
 
                                                                     </ul>
@@ -768,9 +768,9 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-17 content =========*/}
+                                                {/*====================  End of Tillbehör Section-17 content =========*/}
 
-                                                {/*====================  Start of Tillbehor Section-18 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-18 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -785,13 +785,13 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 24 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
+                                                                            <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.9 m
+                                                                            <strong>Vikt:</strong>  ca. 1,9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
+                                                                            <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Användning:</strong> Regelverk under däck
@@ -810,11 +810,11 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-18 content =========*/}
+                                                {/*====================  End of Tillbehör Section-18 content =========*/}
 
 
 
-                                                {/*====================  Start of Tillbehor Section-19 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-19 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -836,13 +836,13 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>   ca. 40 * 70 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
+                                                                            <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  	ca. 1.9 m
+                                                                            <strong>Vikt:</strong>  	ca. 1,9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
+                                                                            <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Användning:</strong> Regelverk under däck
@@ -854,10 +854,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-19 content =========*/}
+                                                {/*====================  End of Tillbehör Section-19 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-20 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-20 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -872,13 +872,13 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Storlek:</strong>  ca. 40 * 70 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
+                                                                            <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>   ca. 1.9 m
+                                                                            <strong>Vikt:</strong>   ca. 1,9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
+                                                                            <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Användning:</strong> Regelverk under däck
@@ -897,10 +897,10 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-20 content =========*/}
+                                                {/*====================  End of Tillbehör Section-20 content =========*/}
 
 
-                                                {/*====================  Start of Tillbehor Section-21 content =========*/}
+                                                {/*====================  Start of Tillbehör Section-21 content =========*/}
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
@@ -919,10 +919,10 @@ const tillbehortillkomposittrall = () => {
                                                                             RHINOFEET™ Pidestaler med justerbar höjd
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Avstånd:</strong>   17 -30 mm, 30-45mm, 45-70mm, 70-120mm
+                                                                            <strong>Höjd:</strong>   17-30mm, 30-45mm, 45-70mm, 70-120mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>basdiameter:</strong> ca. Ø 185 mm
+                                                                            <strong>Basdiameter:</strong> ca. Ø 185 mm
                                                                         </li>
                                                                         <li>
                                                                             <strong>Huvuddiameter:</strong> ca. Ø 100 mm
@@ -932,7 +932,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <span style={{ marginLeft: "102px" }}>1000 kgs</span>
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> höjdjusterbara piedestaler för plattor,
+                                                                            <strong>Användning:</strong> Höjdjusterbara plintar för altan, plattor,
                                                                             beläggningssystem för keramik och regelsystem.
 
                                                                         </li>
@@ -943,7 +943,7 @@ const tillbehortillkomposittrall = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                {/*====================  End of Tillbehor Section-21 content =========*/}
+                                                {/*====================  End of Tillbehör Section-21 content =========*/}
 
 
 
