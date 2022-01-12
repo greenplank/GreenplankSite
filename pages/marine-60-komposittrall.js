@@ -31,15 +31,15 @@ const marine60 = () => {
   return (
     <>
       <Head>
-        <title>MARINE 60 Komposittrall designad för friluftsliv - GreenPlank.se</title>
-        <meta name="title" content="MARINE 60 Komposittrall designad för friluftsliv - GreenPlank.se" />
+        <title>MARINE60™ massiv komposittrall designad för friluftsliv - GreenPlank.se</title>
+        <meta name="title" content="MARINE60™ massiv komposittrall designad för friluftsliv - GreenPlank.se" />
         <meta name="description" content="MARINE 60™ komposittrall det professionella valet för kommersiella projekt.Det delikata naturinspirerade utseendet på Marine60 ™ komposittrall med en halkfri yta och vackra färger passar den skandinaviska estetiska stilen." />
       </Head>
 
-    <Layout pageTitle="marine-60-komposittrall">
+    <Layout pageTitle="MARINE60™ massiv komposittrall">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-60-komposittrall" crumbTitle="marine-60-komposittrall" />
+      <PageHeader title="MARINE60™ massiv komposittrall" crumbTitle="MARINE60™ massiv komposittrall" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -58,14 +58,13 @@ const marine60 = () => {
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Inspirerad av naturen och designad för friluftsliv hittar du MARINE 60™ -däckgolv är vackert realistiska och mycket praktiska med en tidlös kvalitet.</strong>
+                              <strong>Inspirerad av naturen och designad för friluftsliv hittar du MARINE 60™ -utegolv i komposit är vackert realistiska och mycket praktiska med en tidlös kvalitet.</strong>
                               <p>Green Plank MARINE 60™ Komposittrall av naturfiber är inget vanligt däcktrall. Det delikata naturinspirerade utseendet på Marine60 ™ komposittrall med en halkfri yta och vackra färger passar den skandinaviska estetiska stilen. Med vändbara ribbade / räfflade borstade ytor, förbättrad glidmotstånd och långvarig prestanda, är vårt MARINE 60™ komposittrall det professionella valet för kommersiella projekt och bostadshus.</p>
                               <p>Hög glidbeständig, fin, ribbad yta i europeisk stil bildar ett jämnt mönster och möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på med bara fötter.
                                 Precis som äkta träskivor kan vårt MARINE 60™ -kompositbrädor slipas eller sågas till vilken önskad form som helst utan att tappa täckbrädans äkta träeffekt.</p>
                               <div>
                                 <ul>
                                   <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Inga klips Clips</strong> – Du behöver inga klips ( clips )för att montera vår Smart™ Komposit med Not och Spont.</li>
                                   <li><strong>Enhetlighet </strong>– HidLoc™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.</li>
                                   <li><strong>Komplimerande tillbehör </strong>Komplettera dina drömuteplatsdäck med våra täckbrädor och skydd – den perfekta matchen för din högpresterande MARINE 60™ – Komposittrall.</li>
                                 </ul>
