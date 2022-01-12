@@ -29,15 +29,15 @@ const marine40 = () => {
   return (
     <>
     <Head>
-        <title>MARINE 40 Komposittrall, vackert realistisk trallbräda -GreenPlank.se</title>
-        <meta name="title" content="MARINE 40 Komposittrall, vackert realistisk trallbräda -GreenPlank.se" />
-        <meta name="description" content="MARINE 40 kompositträ, lågt underhåll, hög halkbeständig europeisk stil, naturfiber kompositträ. Bästa kvalitet komposit trall för hem och kontor." />
+        <title>MARINE40™ massiv komposittrall, vackert realistisk trallbräda - GreenPlank.se</title>
+        <meta name="title" content="MARINE40™ massiv komposittrall, vackert realistisk trallbräda - GreenPlank.se" />
+        <meta name="description" content="MARINE 40 komposittrall, lågt underhåll, hög halkbeständig europeisk stil, naturfiber komposittrall. Bästa kvalitet komposittrall för hem och kontor." />
       </Head>
 
-    <Layout pageTitle="marine-40-komposittrall">
+    <Layout pageTitle="MARINE40™ massiv komposittrall">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-40-komposittrall" crumbTitle="marine-40-komposittrall" />
+      <PageHeader title="MARINE40™ massiv komposittrall" crumbTitle="MARINE40™ massiv komposittrall" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -51,7 +51,7 @@ const marine40 = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>MARINE 40™ Komposittrall</h2>
+                          <h2>MARINE40™ massiv komposittrall</h2>
                           <strong>Ger skönheten i det praktiska – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
