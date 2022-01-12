@@ -20,15 +20,15 @@ const naturplankkompositplankagp7129 = () => {
   return (
       <>
        <Head>
-                <title>naturplank-komposit-plank-gp7129-40140mm</title>
-                <meta name="title" content="naturplank-komposit-plank-gp7129-40140mm" />
-                <meta name="description" content="NATURPLANK™ Komposit plank Känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank." />
+                <title>NATURPLANK™ kompositplank / kompositregel GP7129 40*140mm</title>
+                <meta name="title" content="NATURPLANK™ kompositplank / kompositregel GP7129 40*140mm" />
+                <meta name="description" content="Kompositbräda GP7129 är idealisk för användning i olika utomhusapplikationer som exempelvis parker, golfbanor, vandringsled och många andra kommersiella tillämpningar." />
             </Head>
     
-    <Layout pageTitle="naturplank-komposit-plank-gp7129-40140mm">
+    <Layout pageTitle="NATURPLANK™ kompositplank / kompositregel GP7129 40*140mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-komposit-plank-gp7129-40140mm" crumbTitle="gp7129" />
+      <PageHeader title="NATURPLANK™ kompositplank / kompositregel GP7129 40*140mm" crumbTitle="NATURPLANK™ kompositplank / kompositregel GP7129 40*140mm" />
       <section className="blog-details pb-40">
         <Container>
           <Row>
