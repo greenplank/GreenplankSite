@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const sapphirekomposittrall = () => {
   return (
-    <Layout pageTitle="sapphire-komposittrall">
+    <Layout pageTitle="Sapphire™ komposittrall med räfflor ger ett säreget utseende.">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="sapphire-komposittrall" crumbTitle="sapphire-komposittrall" />
+      <PageHeader title="Sapphire™ komposittrall med räfflor ger ett säreget utseende." crumbTitle="Sapphire™ komposittrall med räfflor ger ett säreget utseende." />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -43,7 +43,7 @@ const sapphirekomposittrall = () => {
                             <div class="ce_text block">
 
                               <strong>Inspirerad av det traditionella trädäcket som kännetecknas av estetik, hållbarhet och funktionalitet.</strong>
-                              <p>Med ett traditionellt trädekorationsutseende och lång livslängd är vårt SAPPHIRE™ komposittrall ett attraktivt alternativ till träbeläggningsmaterial. Med ett så överraskande prisvärt alternativ finns det helt enkelt ingen anledning att nöja sig med färgning, tätning, splinter och konstant underhåll.</p>
+                              <p>Med ett traditionellt trädekorations utseende och lång livslängd är vårt SAPPHIRE™ komposittrall ett attraktivt alternativ till träbeläggningsmaterial. Med ett så överraskande prisvärt alternativ finns det helt enkelt ingen anledning att nöja sig med färgning, tätning, splinter och konstant underhåll.</p>
                               <p>Hög glidbeständiga eleganta, ribbade / räfflade borstade ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.</p>
                               <p>Med en estetisk skandinavisk designutseende har vårt Sapphire™ -komposittrall varit de bästsäljande däckbrädorna i mer än tio år och är fortfarande idag.</p>
                               <div>
