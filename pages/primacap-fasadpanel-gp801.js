@@ -27,14 +27,14 @@ const fasadpanelgp801 = () => {
   return (
     <>
       <Head>
-        <title>PRIMA CAP™ Fasadpanel | kompositfasad PRIMA CAP - GreenPlank.se</title>
-        <meta name="title" content="PRIMA CAP™ Fasadpanel | kompositfasad PRIMA CAP - GreenPlank.se" />
-        <meta name="description" content="PRIMA CAP™ Composite Fasadbeklädnads system är ett innovativt fasadsystem. Lättvikt, lågunderhåll, brandskyddande, superhållbar kompositfasad beklädnads panel för hemmet." />
+        <title>PRIMA™ Fasadpanel | Kompositfasad PRIMA™ - GreenPlank.se</title>
+        <meta name="title" content="PRIMA™ Fasadpanel | kompositfasad PRIMA™ - GreenPlank.se" />
+        <meta name="description" content="PRIMA™ komposit fasadbeklädnads system är ett innovativt fasadsystem. Lättvikt, lågunderhåll, brandskyddande, super hållbar komposit fasadpanel för hemmet." />
       </Head>
-      <Layout pageTitle="primacap-fasadpanel-gp801">
+      <Layout pageTitle="PRIMA™ underhållsfri fasadpanel i komposit - GP801">
         <HeaderTwo />
         <StickyHeader />
-        <PageHeader title="primacap-fasadpanel-gp801" crumbTitle="gp801" />
+        <PageHeader title="PRIMA™ underhållsfri fasadpanel i komposit - GP801" crumbTitle="PRIMA™ underhållsfri fasadpanel i komposit - GP801" />
         <section className="blog-details pt-40 pb-40">
           <Container>
             <Row>
@@ -48,27 +48,27 @@ const fasadpanelgp801 = () => {
                         {/*====================  Star Smart Classic Section-1 content ====================*/}
                         <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                           <div className="project-details">
-                            <h2>PRIMA CAP™ Fasadpanel av Komposit – GP801</h2>
+                            <h2>PRIMA™ Fasadpanel av komposit – GP801</h2>
                             <strong>det är innovationen bakom skönheten med utmärkt färghållning</strong>
                             <div class="et_pb_text_inner">
                               <div class="ce_text block">
 
-                                <strong>PRIMA CAP ™ Fasadpanel system av komposit är ett innovativt fasad system som är speciellt utformat för att användas som ett integrerat system för att skydda ditt hems exteriör och kommer med 25-årig ingen blekning och rotgaranti. Denna lätta, låga underhåll, brandskyddande, supertåliga Fasadpanel är belagd med revolutionerande ASA-kapstock utan blekning för att motstå extrema temperaturer, tung fuktighet, frys / tö och allt däremellan.</strong>
+                                <strong>PRIMA™ Fasadpanel system av komposit är ett innovativt fasad system som är speciellt utformat för att användas som ett integrerat system för att skydda ditt hems exteriör och kommer med 25-årig ingen blekning och rotgaranti. Denna lätta, låga underhåll, brandskyddande, supertåliga Fasadpanel är belagd med revolutionerande ASA-kapstock utan blekning för att motstå extrema temperaturer, tung fuktighet, frys / tö och allt däremellan.</strong>
                                 <p>
-                                  Green Plank PRIMA CAP ™ – kompositpanel är konstgjord för att se ut som äkta trä utan krav på oljning, målning eller tätning. PRIMA CAP ™ erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster, blekningsbeständiga lyxfärger, tidslös look och är det perfekta valet för husägare som söker värde med fördelarna med en premiumpanel.
+                                  Green Plank PRIMA™ – kompositpanel är konstgjord för att se ut som äkta trä utan krav på oljning, målning eller tätning. PRIMA™ erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster, blekningsbeständiga lyxfärger, tidslös look och är det perfekta valet för husägare som söker värde med fördelarna med en premiumpanel.
                                 </p>
                                 <p>
-                                  PRIMA CAP – GP801 komposit breda fasadpaneler installeras normalt i horisontell riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
+                                  PRIMA – GP801 komposit breda fasadpaneler installeras normalt i horisontell riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
                                 </p>
                                 <div>
                                   <ul>
                                     <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                    <li><strong>Långvarig</strong> –  NOVOCLAD™ Den komposit fasadprofilen är långvarig och tål väder, slitage, UV-solljus och insekter.</li>
+                                    <li><strong>Långvarig</strong> –  PRIMA™ Den komposit fasadprofilen är långvarig och tål väder, slitage, UV-solljus och insekter.</li>
                                     <li><strong>Inga klips </strong>– Du behöver inga klips för att montera vår PrimaCap™ Komposit med Not och Spont.</li>
-                                    <li><strong>Brandbeständig</strong>– PRIMA CAP™ -kompositfasad är brandbeständig på grund av användning av icke brandfarliga material i kompositionen.</li>
+                                    <li><strong>Brandbeständig</strong>– PRIMA™ -kompositfasad är brandbeständig på grund av användning av icke brandfarliga material i kompositionen.</li>
                                     <li><strong>Enkel installation</strong>– Installation av vår kompositfasad är också enkel, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
-                                    <li><strong>Förfabrikerade hål </strong>– Våra Not och Spont Komposittrall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra plankorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri finish</li>
-                                    <li><strong>Komplimerande tillbehör</strong>– En serie av lister i matchande färger i NOVOCLAD™ -profilerna gör att din fasad är lätt att avsluta. Profilerna kan installeras snabbt och säkerställa en fin kantfinish.</li>
+                                    <li><strong>Förfabrikerade hål </strong>– Våra Not och Spont fasadpanel kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra plankorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri finish</li>
+                                    <li><strong>Komplimerande tillbehör</strong>– En serie av lister i matchande färger i PRIMA™ -profilerna gör att din fasad är lätt att avsluta. Profilerna kan installeras snabbt och säkerställa en fin kantfinish.</li>
                                   </ul>
                                 </div>
                               </div>
@@ -95,23 +95,23 @@ const fasadpanelgp801 = () => {
                                     <tbody>
                                       <tr>
                                         <td align="left"><strong>Yta:</strong></td>
-                                        <td align="left">  Protective, low-gloss matte finish</td>
+                                        <td align="left">Low-gloss matte finish</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Storlek:</strong></td>
-                                        <td align="left"> ca. 12.5 * 173 mm</td>
+                                        <td align="left"> ca. 12,5 * 173 mm</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Längd:</strong></td>
-                                        <td align="left">ca. 2.9 m</td>
+                                        <td align="left">ca. 2,9 m</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Åtgång:</strong></td>
-                                        <td align="left"> ca. 6.60 meters for 1 m²</td>
+                                        <td align="left"> ca. 6,60 meters for 1 m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Vikt:</strong></td>
-                                        <td align="left">ca. 9.76 kg / m²</td>
+                                        <td align="left">ca. 9,76 kg / m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Regelavstånd:</strong></td>
@@ -181,8 +181,6 @@ const fasadpanelgp801 = () => {
                                 <div className="project-details">
                                   <h2 className="mb-40 mt-20"><strong>PÅLITLIG HÅLLBARHET, LEVERANSKVALITET</strong></h2>
                                   <ul>
-                                    <li><strong>1. </strong>25 års garanti för fläck- och blekningsmotstånd</li>
-                                    <li><strong>2. </strong>Endast fasadbeklädnadspanel med ASA-lock</li>
                                     <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
                                     <li><strong>4. </strong>Beklädnad för ventilerade fasader</li>
                                     <li><strong>5. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
@@ -205,7 +203,7 @@ const fasadpanelgp801 = () => {
                         <div className="col-12 mb-80">
                           <h3>Fasadpanel tillbehör</h3>
                           <hr />
-                          <p className="mb-40">Green Plank PRIMA CAP™ Kompositfasad tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i din fasad som förbättrar både skönhet och funktionalitet. Från kantlister till startande aluminiumstartlister, expansionsklipp, etc., här är alla fasadtillbehör du behöver för att slutföra ditt PRIMA CAP™ fasadpanel projekt.</p>
+                          <p className="mb-40">Green Plank PRIMA™ Kompositfasad tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i din fasad som förbättrar både skönhet och funktionalitet. Från kantlister till startande aluminiumstartlister, expansionsklipp, etc., här är alla fasadtillbehör du behöver för att slutföra ditt PRIMA™ fasadpanel projekt.</p>
 
                           <Grid container spacing={3}>
                             <Grid item xs={12} sm={4}>
