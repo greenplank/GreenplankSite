@@ -25,15 +25,15 @@ const entraKomposittrall = () => {
     return (
         <>
          <Head>
-        <title>ENTRA™ komposittrall | ENTRA™ kompositbrädor - GreenPlank.se</title>
-        <meta name="title" content="ENTRA™ komposittrall | ENTRA™ kompositbrädor - GreenPlank.se" />
+        <title>ENTRA™ spontad komposittrall | massiv trallbrädor i komposit - GreenPlank.se</title>
+        <meta name="title" content="ENTRA™ spontad komposittrall | massiv trallbrädor i komposit - GreenPlank.se" />
         <meta name="description" content="ENTRA ™ komposittrall, exceptionellt hög prestanda och kvalitet - PVC-fri! . ENTRA™ kompositbrädor fångar värmen och skönheten i naturligt. " />
       </Head>
       
-        <Layout pageTitle="entra-komposittrall">
+        <Layout pageTitle="ENTRA™ spontad komposittrall">
             <HeaderTwo />
             <StickyHeader />
-            <PageHeader title="Entra-komposittrall" crumbTitle="entra-komposittrall" />
+            <PageHeader title="ENTRA™ spontad komposittrall" crumbTitle="ENTRA™ spontad komposittrall" />
             <section className="blog-details pb-40">
                 <Container>
                     <Row>
@@ -47,7 +47,7 @@ const entraKomposittrall = () => {
                                             {/*====================  Star Smart Classic Section-1 content ====================*/}
                                             <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                 <div className="project-details">
-                                                    <h2>ENTRA™ Komposittrall</h2>
+                                                    <h2>ENTRA™ spontad komposittrall</h2>
                                                     <strong>exceptionellt hög prestanda och kvalitet – PVC-fri!</strong>
                                                     <div class="et_pb_text_inner">
                                                         <div class="ce_text block">
