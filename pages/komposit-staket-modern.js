@@ -28,10 +28,10 @@ import Footer from "../components/footer";
 
 const kompositstaketmodern = () => {
   return (
-    <Layout pageTitle="komposit-staket-modern">
+    <Layout pageTitle="NOVOFENCE™ Horisontellt Komposit staket – Modern™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit-staket-modern" crumbTitle="komposit-staket-modern" />
+      <PageHeader title="NOVOFENCE™ Horisontellt Komposit staket – Modern™" crumbTitle="NOVOFENCE™ Horisontellt Komposit staket – Modern™" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -45,7 +45,7 @@ const kompositstaketmodern = () => {
                       {/*====================  Star Staket Modern Section-1 content ============*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>NOVOFENCE ™ Horisontellt Komposit staket – Modern™</h2>
+                          <h2>NOVOFENCE™ Horisontellt Komposit staket – Modern™</h2>
                           <strong>enkel design och estetisk look – använd din fantasi – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
