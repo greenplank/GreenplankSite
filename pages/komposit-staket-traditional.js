@@ -29,10 +29,10 @@ import Footer from "../components/footer";
 
 const kompositstakettraditional = () => {
   return (
-    <Layout pageTitle="komposit-staket-traditional">
+    <Layout pageTitle="Novofence™ Traditional™ staket i komposit">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="komposit-staket-traditional" crumbTitle="komposit-staket-traditional" />
+      <PageHeader title="Novofence™ Traditional™ staket i komposit" crumbTitle="Novofence™ Traditional™ staket i komposit" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
