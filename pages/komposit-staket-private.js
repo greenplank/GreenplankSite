@@ -32,10 +32,10 @@ import Footer from "../components/footer";
 
 const kompositstaketprivate = () => {
   return (
-    <Layout pageTitle="komposit-staket-private">
+    <Layout pageTitle="NOVOFENCE™ Komposit staket – Private™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit-staket-private" crumbTitle="komposit-staket-private" />
+      <PageHeader title="NOVOFENCE™ Komposit staket – Private™" crumbTitle="NOVOFENCE™ Komposit staket – Private™" />
       <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
@@ -49,7 +49,7 @@ const kompositstaketprivate = () => {
                       {/*====================  Star Staket Private Section-1 content ================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>NOVOFENCE ™ Komposit staket – Private™</h2>
+                          <h2>NOVOFENCE™ Komposit staket – Private™</h2>
                           <strong>bra grannstaket med stil och styrka – PVC-fri!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
