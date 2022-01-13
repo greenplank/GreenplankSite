@@ -743,7 +743,7 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Trappnoslist Stor
+                                                                            NATURPLANK™ Komposit Trappnoslist GP7151
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>  ca. 25 * 60 mm
@@ -788,7 +788,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1,9 m
+                                                                            <strong>Vikt:</strong>  ca. 6,84 kgs/st
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
@@ -839,7 +839,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  	ca. 2,12 m
+                                                                            <strong>Vikt:</strong>  	ca. 7,63 kg/st 
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
@@ -875,7 +875,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>   ca. 3,86 m
+                                                                            <strong>Vikt:</strong>   ca. 13,90 kg/st
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
@@ -929,7 +929,7 @@ const tillbehortillkomposittrall = () => {
                                                                         </li>
                                                                         <li>
                                                                             <strong>Kompressionsmotstånd:  </strong>
-                                                                            <span style={{ marginLeft: "102px" }}>1000 kgs</span>
+                                                                            <span style={{ marginLeft: "102px" }}>400 kgs</span>
                                                                         </li>
                                                                         <li>
                                                                             <strong>Användning:</strong> Höjdjusterbara plintar för altan, plattor,
