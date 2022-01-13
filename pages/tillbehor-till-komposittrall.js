@@ -119,13 +119,13 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            HIDLOC™ Dolda monteringsclips (Rostfritt stål)
+                                                                            HIDLOC™ Clips med förstärkning av rostfritt stål för dold infästning av komposittrall.
                                                                         </li>
                                                                         <li>
                                                                             <strong>Förpackning:</strong> Låda
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket komposittrall)
+                                                                            <strong>Åtgång:</strong> ca. 5 – 7 m²  *(varierar med vilket komposittrall)
                                                                         </li>
                                                                         <li>
                                                                             <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
@@ -779,7 +779,7 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Massiv Regel Liten
+                                                                            NATURPLANK™ Massiv Regel GP704
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>  ca. 24 * 40 mm
@@ -830,7 +830,7 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Ihålig Regel (med tillgängliga ändlock)
+                                                                            NATURPLANK™ Ihålig Regel (med tillgängliga ändlock) GP765
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>   ca. 40 * 70 mm
@@ -839,7 +839,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  	ca. 1,9 m
+                                                                            <strong>Vikt:</strong>  	ca. 2,12 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
@@ -866,7 +866,7 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Massiv Regel stor
+                                                                            NATURPLANK™ Massiv Regel GP7165
                                                                         </li>
                                                                         <li>
                                                                             <strong>Storlek:</strong>  ca. 40 * 70 mm
@@ -875,7 +875,7 @@ const tillbehortillkomposittrall = () => {
                                                                             <strong>Längd:</strong>  ca. 3,6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>   ca. 1,9 m
+                                                                            <strong>Vikt:</strong>   ca. 3,86 m
                                                                         </li>
                                                                         <li>
                                                                             <strong>Installation:</strong> Med Skruvar. (förborrnings krävs)
@@ -916,7 +916,7 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            RHINOFEET™ Pidestaler med justerbar höjd
+                                                                             RHINOFEET™ Höjd & fall justerbar däck plint
                                                                         </li>
                                                                         <li>
                                                                             <strong>Höjd:</strong>   17-30mm, 30-45mm, 45-70mm, 70-120mm
