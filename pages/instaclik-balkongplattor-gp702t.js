@@ -25,9 +25,9 @@ const instaclikbalkongplattor = () => {
     return (
         <>
             <Head>
-                <title>INSTACLIK™ Balkongplattor - GP702T</title>
-                <meta name="title" content="Plattor | INSTACLIK™ Balkongplattor - GP702T - GreenPlank.se" />
-                <meta name="description" content="INSTACLIK ™ Komposittrall &amp; Balkongplattor ger ett toppmodernt flytande däcksystem, tillverkat av naturliga kompositfibrer." />
+                <title>INSTACLIK™ Golvplattor, Balkongplattor - GP702T - GreenPlank.se</title>
+                <meta name="title" content="INSTACLIK™ Golvplattor, Balkongplattor - GP702T - GreenPlank.se" />
+                <meta name="description" content="INSTACLIK™ Komposittrall &amp; Balkongplattor. Snabba och enkla lösningar för utomhusgolv, terrass, inglasad balkong/altan" />
             </Head>
             <Layout pageTitle="instaclik-balkongplattor-gp702t">
                 <HeaderTwo />
@@ -46,25 +46,25 @@ const instaclikbalkongplattor = () => {
                                                 {/*====================  Star Golvplattor Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>INSTACLIK™ Komposittrall – och Balkongplattor</h2>
+                                                        <h2>INSTACLIK™ Golvplattor, Balkongplattor - GP702T</h2>
                                                         <strong>gör-det-själv betyder verkligen att du kan göra det enkelt själv.</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
                                                                 <strong>Inspirerad av den skandinaviska designtraditionen som kännetecknas av estetik, enkelhet och funktionalitet.</strong>
                                                                 <p>
-                                                                    INSTACLIK™ komposittrall – och balkongplattor ger ett modernt gör det själv flytande däcksystem, tillverkat av naturliga fibers komposit (trä / risskalfiber och återvunnen HDPE-plast), och avslutat med en attraktiv slitstark halkmotståndig finish som eliminerar förmultning, tillväxt av alger, missfärgning. Hög glidbeständiga eleganta, ribbade / räfflade borstade ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.
+                                                                    INSTACLIK™ golvplattor – och balkongplattor ger ett modernt gör det själv flytande däcksystem, tillverkat av naturliga fibers komposit (trä / risskalfiber och återvunnen HDPE-plast), och avslutat med en attraktiv slitstark halkmotståndig finish som eliminerar förmultning, tillväxt av alger, missfärgning. Hög glidbeständiga eleganta, ribbade / räfflade borstade ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.
                                                                 </p>
                                                                 <p>
-                                                                    INSTACLIK™ Komposittrall – och balkong ger en ny exceptionell look till vilken plan yta som helst. Våra plattor har halkfri och barfots vänlig yta. Varje däckplatta har inbyggda ihopkopplingsystsem på alla fyra sidor som säkerställer exakt, automatisk plattlinjeanpassning och låser varje däckplatta på plats, exakt och säkert, utan krångel eller ansträngning.
-                                                                    Med en estetisk skandinavisk designutseende har våra INSTACLIK™ komposittrall och balkongplattor varit det mest sålda flytande golvet i mer än 12 år och är ett toppval bland många stora kooperativa bostadsföreningar. Det är ett kostnadseffektivt alternativ eftersom det är enkelt att underhålla – ingen målning, färgning eller tätning krävs.
+                                                                    INSTACLIK™ golvplattor – och balkongplattor ger en ny exceptionell look till vilken plan yta som helst. Våra plattor har halkfri och barfots vänlig yta. Varje däckplatta har inbyggda ihopkopplingsystsem på alla fyra sidor som säkerställer exakt, automatisk plattlinjeanpassning och låser varje däckplatta på plats, exakt och säkert, utan krångel eller ansträngning.
+                                                                    Med en estetisk skandinavisk designutseende har våra INSTACLIK™ golvplattor och balkongplattor varit det mest sålda flytande golvet i mer än 12 år och är ett toppval bland många stora kooperativa bostadsföreningar. Det är ett kostnadseffektivt alternativ eftersom det är enkelt att underhålla – ingen målning, färgning eller tätning krävs.
                                                                 </p>
                                                                 <div>
                                                                     <ul>
                                                                         <li><strong>Premiumkvalitet</strong> – Beprövade nordiska kvalitetsdäckplattor för hårt väder och grönare levande.</li>
                                                                         <li><strong>Lägg till stil i valfri storlek</strong> –  INSTACLIK™ Trall – och balkongplattor kan enkelt installeras och tas bort. Det är en personlig design touch som rör sig när du gör det.</li>
                                                                         <li><strong>Välj utrymme, lägg till brickor, njut  </strong>– De flesta är utformade för att vara enkla och enkla att installera och fullföljer sin INSTACLIK™ Balkongplattor – applikation på 90 minuter eller mindre. INSTACLIK™ Balkongplattor fungerar på en fast, plan utomhusyta.</li>
-                                                                        <li><strong>Vackert på båda sidor</strong>– INSTACLIK™ Komposittrall – och balkongplattor ser vackra ut, men varje platta är byggd på massiv teknik – en hållbar komplicerad plattplatta som möjliggör luftflöde och korrekt dränering, vilket främjar snabbare torkningstid på den hårda ytan nedan.</li>
+                                                                        <li><strong>Vackert på båda sidor</strong>– INSTACLIK™ golvplattor – och balkongplattor ser vackra ut, men varje platta är byggd på massiv teknik – en hållbar komplicerad plattplatta som möjliggör luftflöde och korrekt dränering, vilket främjar snabbare torkningstid på den hårda ytan nedan.</li>
                                                                         <li><strong>Konstruerad för att uthärda </strong>– Ett utomhusutrymme bör vara lika hållbart som det är vackert – varför INSTACLIK™ trall & balkongplattor stöds med 15 års begränsad garanti.</li>
                                                                     </ul>
                                                                 </div>
