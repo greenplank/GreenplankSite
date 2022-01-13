@@ -15,13 +15,13 @@ const fasadpanel = () => {
     return (
         <>
             <Head>
-                <title>Fasadpanel | Fasadbeklädnad - GreenPlank.se</title>
-                <meta name="title" content="Fasadpanel | Fasadbeklädnad - GreenPlank.se" />
+                <title>Fasadpanel i komposit | Fasadbeklädnad, ytterpanel - GreenPlank.se</title>
+                <meta name="title" content="Fasadpanel i komposit | Fasadbeklädnad, ytterpanel - GreenPlank.se<" />
                 <meta name="description" content="Fasadpanel och Fasadbeklädnad.Green Plank-Fasadpanel är väl testade av testlaboratorier. Fasadbeklädnad kräver lite eller inget underhåll." />
             </Head>
-            <Layout pageTitle="Fasadpanel">
+            <Layout pageTitle="Fasadpanel i komposit, fasadbeklädnad, ytterpanel">
                 <HeaderTwo />
-                <PageHeaderFasadpanel title="Fasadpanel" crumbTitle="fasadpanel" />
+                <PageHeaderFasadpanel title="Fasadpanel i komposit, fasadbeklädnad, ytterpanel crumbTitle="Fasadpanel i komposit, fasadbeklädnad, ytterpanel" />
                 <StickyHeader />
                 <FasadpanelSection />
                 <section className="about-one pb-40">
@@ -36,7 +36,7 @@ const fasadpanel = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda Fasadpanel</strong></h2>
+                                                        <h2><strong>Varför använda fasadpanel i komposit</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -51,7 +51,7 @@ const fasadpanel = () => {
                                                                 <div className="about-content-two" style={{ padding: "1em 1em 1em 2em" }}>
                                                                     <h3>PROBLEMFRI KOMPOSIT FASADPANEL</h3>
                                                                     <p>
-                                                                        Fasadpanel är inte nytt. Det har funnits sedan 70-talet. Green Plank-Fasadpanel är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks Fasadbeklädnad kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella trädäck, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                        Fasadpanel i komposit är inte nytt. Det har funnits sedan 70-talet. Green Planks komposit fasadpanel är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks fasadbeklädnad kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella ytterpanel, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -63,9 +63,9 @@ const fasadpanel = () => {
                                                         <div className="row row-25 align-items-center">
                                                             <div className="col-lg-6 col-12 mb-30">
                                                                 <div className="about-content-two">
-                                                                    <h3>Green Plank – ett låg underhålls Fasadpanel som både är snyggt, hållbart och giftfritt !</h3>
+                                                                    <h3>Green Plank – ett låg underhålls fasadpanel som både är snyggt, hållbart och giftfritt !</h3>
                                                                     <p>
-                                                                        Med Green Plank-Fasadbeklädnad kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                        Med Green Plank komposit fasadbeklädnad kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
                                                                     </p>
                                                                 </div>
                                                             </div>
