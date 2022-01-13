@@ -15,13 +15,13 @@ const golvplattor = () => {
     return (
         <>
             <Head>
-                <title>Golvplattor</title>
-                <meta name="title" content="Golvplattor och komposit balkongplattor - GreenPlank.se" />
-                <meta name="description" content="Golvplattor och sammansatta balkonger är perfekta för att återskapa utomhusgolv som uteplatser, tak, balkonger och täcka tuffa inomhusgolv." />
+                <title>Golvplattor, trallruta, utomhusgolv & balkongplattor - GreenPlank.se</title>
+                <meta name="title" content="Golvplattor, Trallruta, Utomhusgolv & balkongplattor - GreenPlank.se" />
+                <meta name="description" content="Golvplattor, Trallruta, Utomhusgolv & balkongplattor i hållbara komposit är perfekta för uteplatser, tak, balkonger och täcka tuffa inomhusgolv." />
             </Head>
-            <Layout pageTitle="Golvplattor">
+            <Layout pageTitle="Golvplattor, trallruta, utomhusgolv & balkongplattor">
                 <HeaderTwo />
-                <PageHeader title="Golvplattor" crumbTitle="golvplattor" />
+                <PageHeader title="Golvplattor, trallruta, utomhusgolv & balkongplattor" crumbTitle="Golvplattor, trallruta, utomhusgolv & balkongplattor" />
                 <StickyHeader />
                 <GolvplattorSection />
                 <section className="about-one pb-40">
