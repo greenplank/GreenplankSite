@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeader from "../components/page-header-planner";
 
 import PlaneraSection from "../components/planeraSection";
 import Footer from "../components/footer";
@@ -20,7 +20,7 @@ const Planera = () => {
       </Head>
       <Layout pageTitle="Green Plank Planera - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Green Plank Planera" crumbTitle="Planera" />
+        <PageHeader title="" crumbTitle="Planera" />
         <StickyHeader />
         
         <PlaneraSection />
