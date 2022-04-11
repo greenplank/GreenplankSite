@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import pageHeaderBg from "../assets/images/backgrounds/banner-design.jpg";
+import pageHeaderBg from "../assets/images/backgrounds/swedish.jpg";
 
 const PageHeader = ({ title, crumbTitle }) => {
   return (
