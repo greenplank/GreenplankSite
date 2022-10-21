@@ -19,25 +19,26 @@ const HomeTwo = () => {
   console.log(process.env.authAPIkey);
   return (
     <>
-      <Head>
-      <meta name="robots" content="NOINDEX,NOFOLLOW"/>
-        <meta name="title" content="Bästa komposittrall | golvplattor | staket och många fler!" />
-        <meta name="description" content="Green Plank är det ledande svenska varumärket för hållbara byggprodukter i Sverige. Skandinavisk kvalitets Komposittrall, Fasadbeklädnad, Plankor, Staket." />
-      </Head>
-      <Layout pageTitle="Bästa komposittrall | golvplattor | staket och många fler!">
-        <HeaderTwo />
-        <StickyHeader extraClassName="stricky-header-two" />
-        <MainSliderTwo />
-        <ServiceTwo />
-        <VideoCards />
-        <HemGallery />
-        <HemRelatedProducts />
-        <VideoCard />
-        <FeaturedCause />
-        <HemLastSection />
-        <BrandCarousel extraClass="client-carousel__has-border-top" />
-        <Footer />
-      </Layout>
+    <h1>Comming Soon</h1>
+//       <Head>
+//       <meta name="robots" content="NOINDEX,NOFOLLOW"/>
+//         <meta name="title" content="Bästa komposittrall | golvplattor | staket och många fler!" />
+//         <meta name="description" content="Green Plank är det ledande svenska varumärket för hållbara byggprodukter i Sverige. Skandinavisk kvalitets Komposittrall, Fasadbeklädnad, Plankor, Staket." />
+//       </Head>
+//       <Layout pageTitle="Bästa komposittrall | golvplattor | staket och många fler!">
+//         <HeaderTwo />
+//         <StickyHeader extraClassName="stricky-header-two" />
+//         <MainSliderTwo />
+//         <ServiceTwo />
+//         <VideoCards />
+//         <HemGallery />
+//         <HemRelatedProducts />
+//         <VideoCard />
+//         <FeaturedCause />
+//         <HemLastSection />
+//         <BrandCarousel extraClass="client-carousel__has-border-top" />
+//         <Footer />
+//       </Layout>
     </>
   );
 };
